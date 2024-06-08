@@ -250,6 +250,422 @@
       {
         "id": "epilogue_npc_male_63",
         "text": "     He lived desperately in the Cataclysm for a few years before meeting a female survivor while digging through a dumpster.  Both were wary of one another and were soon at each other's throats.  Neither side secured a victory.  Wounded and scarred, they each went to their respective hideouts.  Not long after, they met again.  The woman initiated a conversation with him, asking for his help.  It was foolish to fight when they could work together instead.  He acquiesced.  In this cruel and forlorn world, they soon fell in love.  If they had each other, everything would be all right.  Decades passed and they grew old holding hands.  One day, the wife fell ill, and with her dying breath, she said she was happy all these years with him.  Stay strong without me.  The husband wept and laid down beside his wife.  Without you, nothing else matters.  He swallowed a bitter poison and departed this world to find his wife who was waiting for him."
+      },
+      {
+        "id": "epilogue_npc_male_64",
+        "text": "     Found peace in a hidden valley where he built a small sanctuary for wildlife. He passed away quietly, surrounded by the nature he loved."
+      },
+      {
+        "id": "epilogue_npc_male_65",
+        "text": "     Became a master brewer, creating a famous line of post-apocalyptic spirits. He was celebrated widely, but his liver gave out from years of taste-testing."
+      },
+      {
+        "id": "epilogue_npc_male_66",
+        "text": "     Became an artist, using the ruins as his canvas. His murals brought color to the gray world. He died while painting a final masterpiece on a crumbling skyscraper."
+      },
+      {
+        "id": "epilogue_npc_male_67",
+        "text": "     Formed a traveling circus with other survivors, bringing laughter and amazement to settlements. He died during a dangerous stunt, leaving behind a legacy of joy."
+      },
+      {
+        "id": "epilogue_npc_male_68",
+        "text": "     Became a legend among scavengers for his uncanny ability to find rare artifacts. His luck ran out when he triggered a trap in an old government bunker."
+      },
+      {
+        "id": "epilogue_npc_male_69",
+        "text": "     Opened a school in a reclaimed library, teaching the young survivors how to read and write. He died of old age, surrounded by grateful students."
+      },
+      {
+        "id": "epilogue_npc_male_70",
+        "text": "     Became a detective, solving crimes and mysteries among survivors. His sharp mind and keen eye brought justice until he was outwitted by a cunning adversary."
+      },
+      {
+        "id": "epilogue_npc_male_71",
+        "text": "     Dedicated his life to building a network of underground tunnels for safe travel. He was trapped in a cave-in, his efforts saving countless lives."
+      },
+      {
+        "id": "epilogue_npc_male_72",
+        "text": "     Trained birds to carry messages between distant settlements. His avian network kept communities connected. He died peacefully in his aviary."
+      },
+      {
+        "id": "epilogue_npc_male_73",
+        "text": "     Became a spiritual leader, offering guidance and solace to those in despair. His followers built a shrine in his honor after he passed away during meditation."
+      },
+      {
+        "id": "epilogue_npc_male_74",
+        "text": "     Found a hidden underground city, becoming its guardian. He protected its secrets until his dying breath, ensuring its safety from outsiders."
+      },
+      {
+        "id": "epilogue_npc_male_75",
+        "text": "     Lived as a ghost story among survivors, appearing to help those in need before vanishing. His mysterious actions saved many lives, but his true identity was never confirmed."
+      },
+      {
+        "id": "epilogue_npc_male_76",
+        "text": "     Discovered an ancient cache of pre-Cataclysm seeds and revived agriculture in his region. He died a revered elder, his gardens a testament to his green thumb."
+      },
+      {
+        "id": "epilogue_npc_male_77",
+        "text": "     Became a pioneer of renewable energy, constructing wind and solar farms. His innovations powered a new age of sustainability until he was claimed by an industrial accident."
+      },
+      {
+        "id": "epilogue_npc_male_78",
+        "text": "     Formed a band of wandering minstrels, their music echoing through the ruins. He died on stage during a performance, his final song a haunting ballad."
+      },
+      {
+        "id": "epilogue_npc_male_79",
+        "text": "     Became an alchemist, mixing potions and remedies that saved many lives. His experiments grew more ambitious until one exploded, ending his journey."
+      },
+      {
+        "id": "epilogue_npc_male_80",
+        "text": "     Spent his years crafting intricate clockwork devices, each a marvel of engineering. He was found lifeless in his workshop, surrounded by his ticking creations."
+      },
+      {
+        "id": "epilogue_npc_male_81",
+        "text": "     Lived among a tribe of mutants, bridging the gap between humans and mutants. His diplomacy was crucial in forming alliances. He died during a peace negotiation gone wrong."
+      },
+      {
+        "id": "epilogue_npc_male_82",
+        "text": "     Became a feared bounty hunter, tracking down criminals and monsters alike. His reputation was unmatched until he met his match in a cunning fugitive."
+      },
+      {
+        "id": "epilogue_npc_male_83",
+        "text": "     Became a vigilante, fighting for justice in lawless territories. His exploits became legendary, but he was finally overwhelmed by a mob seeking revenge."
+      },
+      {
+        "id": "epilogue_npc_male_84",
+        "text": "     Created a series of hidden safe houses for wandering survivors. His network provided refuge for many. He died defending one of these sanctuaries from raiders."
+      },
+      {
+        "id": "epilogue_npc_male_85",
+        "text": "     Became a pioneer of new farming techniques, growing food in even the harshest environments. His methods were adopted widely, though he succumbed to a rare plant disease."
+      },
+      {
+        "id": "epilogue_npc_male_86",
+        "text": "     Became a storyteller, preserving oral histories of the Cataclysm. His tales were passed down through generations, ensuring the past was never forgotten."
+      },
+      {
+        "id": "epilogue_npc_male_87",
+        "text": "     Traveled the wastelands as a medic, healing the wounded and sick. His tireless work saved countless lives, but a virulent plague finally claimed his own."
+      },
+      {
+        "id": "epilogue_npc_male_88",
+        "text": "     Became an explorer, charting the unknown regions. His maps were invaluable to survivors. He disappeared on his final expedition, his fate unknown."
+      },
+      {
+        "id": "epilogue_npc_male_89",
+        "text": "     Founded a new religion based on survival and resilience. His followers flourished, though he died during a pilgrimage to a sacred site."
+      },
+      {
+        "id": "epilogue_npc_male_90",
+        "text": "     Became a craftsman, creating beautiful and functional items from salvage. His work was highly prized. He died in his workshop, his hands still gripping his tools."
+      },
+      {
+        "id": "epilogue_npc_male_91",
+        "text": "     Lived in a lighthouse, guiding survivors safely along the coast. His light never failed, but he was found one morning, peacefully deceased in his chair."
+      },
+      {
+        "id": "epilogue_npc_male_92",
+        "text": "     Spent his life uncovering the secrets of pre-Cataclysm technology. His discoveries advanced survivor society. He died in his lab, his final invention unfinished."
+      },
+      {
+        "id": "epilogue_npc_male_93",
+        "text": "     Became a pirate, raiding the coasts and gathering a loyal crew. His legend grew until he was betrayed by a crewmate, ending his reign on the high seas."
+      },
+      {
+        "id": "epilogue_npc_male_94",
+        "text": "     Became a farmer, teaching others how to cultivate the land. His methods fed many, but he died during a raid on his farm."
+      },
+      {
+        "id": "epilogue_npc_male_95",
+        "text": "     Became a cyberneticist, merging man and machine. His work gave hope to many, though he died during a risky self-experiment."
+      },
+      {
+        "id": "epilogue_npc_male_96",
+        "text": "     Became a wanderer, never staying in one place too long. His stories and wisdom spread far and wide. He was found under the stars, his journey finally over."
+      },
+      {
+        "id": "epilogue_npc_male_97",
+        "text": "     Created a sanctuary for lost pets, raising them as his own. His compassion saved many furry lives. He died surrounded by the animals he loved."
+      },
+      {
+        "id": "epilogue_npc_male_98",
+        "text": "     Became a myth, said to have found a utopia. Few believed the tales, but those who did sought his wisdom. He vanished into legend, his existence debated."
+      },
+      {
+        "id": "epilogue_npc_male_99",
+        "text": "     Became a twisted surgeon, experimenting on anyone he captured. His lair was filled with grotesque abominations. He was finally killed by a vengeful survivor, his creations left to rot."
+      },
+      {
+        "id": "epilogue_npc_male_100",
+        "text": "     Became a cannibal, preying on the weak and lost. His camp was a horror of bones and flesh. He met his end when one of his victims escaped and led a mob back to exact brutal justice."
+      },
+      {
+        "id": "epilogue_npc_male_101",
+        "text": "     Became a feared torturer for a raider gang, enjoying the screams of his victims. His reign of terror ended when he was overpowered and subjected to his own methods."
+      },
+      {
+        "id": "epilogue_npc_male_102",
+        "text": "     Delved into dark rituals, seeking power through forbidden means. His experiments summoned horrors beyond comprehension, and he was torn apart by the very entities he sought to control."
+      },
+      {
+        "id": "epilogue_npc_male_103",
+        "text": "     Became a notorious slaver, capturing and selling survivors. His cruelty was unmatched. He was finally overthrown by his captives, who left him to die slowly in the same chains he had used on others."
+      },
+      {
+        "id": "epilogue_npc_male_104",
+        "text": "     Turned to necromancy, raising the dead to do his bidding. His undead army was feared by all, but eventually they turned on him, tearing him apart piece by piece."
+      },
+      {
+        "id": "epilogue_npc_male_105",
+        "text": "     Became a serial killer, stalking the wasteland and collecting trophies from his victims. His lair was discovered by a group of survivors who exacted bloody vengeance upon him."
+      },
+      {
+        "id": "epilogue_npc_male_106",
+        "text": "     Became obsessed with human experimentation, creating monstrous hybrids. His lab was a nightmarish hellscape. He died when one of his creations broke free and exacted a brutal revenge."
+      },
+      {
+        "id": "epilogue_npc_male_107",
+        "text": "     Led a cult that worshiped a dark entity, performing sacrifices to gain favor. His followers eventually turned on him, offering him as the ultimate sacrifice."
+      },
+      {
+        "id": "epilogue_npc_male_108",
+        "text": "     Became a butcher, carving up survivors for meat. His 'shop' was a horror show of blood and bone. He was eventually caught and butchered by a mob of enraged survivors."
+      },
+      {
+        "id": "epilogue_npc_male_109",
+        "text": "     Delved into the darkest corners of the wasteland, collecting cursed artifacts. His collection drove him mad, and he was found dead, surrounded by objects that whispered secrets from beyond."
+      },
+      {
+        "id": "epilogue_npc_male_110",
+        "text": "     Became a grotesque puppet master, controlling people with strings and hooks. His victims were forced to perform for his sick amusement until they turned on him, tearing him apart."
+      },
+      {
+        "id": "epilogue_npc_male_111",
+        "text": "     Lived in a decrepit mansion, capturing and torturing travelers. His screams echoed through the halls until a group of survivors stormed the place and exacted brutal revenge."
+      },
+      {
+        "id": "epilogue_npc_male_112",
+        "text": "     Created a labyrinth of traps and horrors, luring survivors in for his twisted pleasure. He was found dead in the center of his own maze, having fallen victim to one of his own traps."
+      },
+      {
+        "id": "epilogue_npc_male_113",
+        "text": "     Became a predator, hunting humans for sport. His trophies lined his cabin, a testament to his brutality. He was eventually outsmarted and killed by a group of his intended prey."
+      },
+      {
+        "id": "epilogue_npc_male_114",
+        "text": "     Developed a taste for blood, becoming a vampire-like figure. He terrorized settlements until he was hunted down and exposed to sunlight, burning to ashes."
+      },
+      {
+        "id": "epilogue_npc_male_115",
+        "text": "     Turned to dark magic, casting spells that twisted and corrupted. His final ritual went horribly wrong, and he was consumed by the demonic forces he sought to control."
+      },
+      {
+        "id": "epilogue_npc_male_116",
+        "text": "     Became a necrophile, collecting and preserving bodies. His macabre collection was discovered, and he was lynched by horrified survivors."
+      },
+      {
+        "id": "epilogue_npc_male_117",
+        "text": "     Ran a brothel where the workers were slaves, treated worse than animals. His cruelty ended when a revolt led by the captives saw him torn apart by those he had abused."
+      },
+      {
+        "id": "epilogue_npc_male_118",
+        "text": "     Became a sinister puppeteer, using mind control to enslave others. His reign ended when a group of freed survivors turned his own devices against him, leaving him a mindless husk."
+      },
+      {
+        "id": "epilogue_npc_male_119",
+        "text": "     Became a dark prophet, spreading despair and chaos. His cult grew until a rival faction ambushed him, and he was dismembered and his remains scattered."
+      },
+      {
+        "id": "epilogue_npc_male_120",
+        "text": "     Engaged in grotesque medical experiments, trying to create a perfect being. His lab was a charnel house of horrors. He was finally killed by one of his own creations."
+      },
+      {
+        "id": "epilogue_npc_male_121",
+        "text": "     Became a master of psychological torture, breaking his victims' minds. His lair was filled with the insane muttering of those he had destroyed. He died when one of his victims snapped and killed him."
+      },
+      {
+        "id": "epilogue_npc_male_122",
+        "text": "     Collected the faces of his victims, wearing them as masks. His gruesome spree ended when he was caught and his own face was removed as a grim form of justice."
+      },
+      {
+        "id": "epilogue_npc_male_123",
+        "text": "     Became a brutal warlord, ruling through fear and pain. His regime was marked by unspeakable atrocities. He was overthrown and executed in the same brutal manner he had inflicted on others."
+      },
+      {
+        "id": "epilogue_npc_male_124",
+        "text": "     Used forbidden technology to create horrific cybernetic monstrosities. His lab was a nightmare of flesh and metal. He was killed by his own creations, who saw him as their tormentor."
+      },
+      {
+        "id": "epilogue_npc_male_125",
+        "text": "     Became a sadistic executioner, inventing new and terrible ways to kill. His end came when a mob stormed his execution grounds and subjected him to his own devices."
+      },
+      {
+        "id": "epilogue_npc_male_126",
+        "text": "     Became a depraved kingpin, running a network of human trafficking and drug trade. His empire fell when a rival gang attacked, and he was tortured and killed in retribution."
+      },
+      {
+        "id": "epilogue_npc_male_127",
+        "text": "     Became a collector of souls, believing he could achieve immortality. His soul jars were his undoing, as the trapped spirits broke free and dragged him into their torment."
+      },
+      {
+        "id": "epilogue_npc_male_128",
+        "text": "     Transformed into a monstrous beast through his experiments, he lost his humanity. He terrorized the land until a group of hunters tracked him down and put him out of his misery."
+      },
+      {
+        "id": "epilogue_npc_male_129",
+        "text": "     Became a vile priest of a dark god, demanding sacrifices. His followers eventually turned on him, offering him up to the very deity he worshipped."
+      },
+      {
+        "id": "epilogue_npc_male_130",
+        "text": "     Became a butcher in a cannibal commune, providing 'meat' for the members. His bloody reign ended when an uprising saw him served as the main course."
+      },
+      {
+        "id": "epilogue_npc_male_131",
+        "text": "     Began hearing whispers from the shadows. He followed them into the depths of an abandoned bunker and was never seen again. Some say his whispers can still be heard."
+      },
+      {
+        "id": "epilogue_npc_male_132",
+        "text": "     Claimed to have found a portal to another world. Those who went to see it found only his tattered journal filled with incomprehensible symbols."
+      },
+      {
+        "id": "epilogue_npc_male_133",
+        "text": "     Was seen speaking to an invisible entity. One day, he simply vanished, leaving behind a cryptic note that read, 'I've seen beyond the veil.'"
+      },
+      {
+        "id": "epilogue_npc_male_134",
+        "text": "     Discovered a mirror that showed impossible reflections. He spent hours staring into it until he disappeared, his reflection lingering a moment longer than it should have."
+      },
+      {
+        "id": "epilogue_npc_male_135",
+        "text": "     Found an ancient book that no one else could read. He became obsessed with it, and when the book was opened, he vanished without a trace."
+      },
+      {
+        "id": "epilogue_npc_male_136",
+        "text": "     Became convinced he was being hunted by a creature only he could see. He left a detailed map of his sightings before disappearing mysteriously."
+      },
+      {
+        "id": "epilogue_npc_male_137",
+        "text": "     Claimed to have met an immortal being. He began leaving offerings at a secluded shrine until he vanished, the shrine now surrounded by strange, glowing plants."
+      },
+      {
+        "id": "epilogue_npc_male_138",
+        "text": "     Started drawing intricate symbols on every surface. One night, he stepped into the center of his latest drawing and vanished, the symbols glowing faintly before fading away."
+      },
+      {
+        "id": "epilogue_npc_male_139",
+        "text": "     Found a strange artifact that hummed softly. He couldn't part with it, and one day, he and the artifact disappeared, leaving only a scorch mark where they stood."
+      },
+      {
+        "id": "epilogue_npc_male_140",
+        "text": "     Claimed he could see the future and began preparing for an unknown event. He left detailed prophecies before disappearing during a solar eclipse."
+      },
+      {
+        "id": "epilogue_npc_male_141",
+        "text": "     Started receiving visions of a hidden city. He left to find it, sending messages back describing impossible wonders, until the messages stopped abruptly."
+      },
+      {
+        "id": "epilogue_npc_male_142",
+        "text": "     Became obsessed with a constellation that appeared only once a century. He left to find its origin and was never seen again, the constellation's star twinkling oddly bright."
+      },
+      {
+        "id": "epilogue_npc_male_143",
+        "text": "     Found a cave that seemed to breathe. He explored its depths and was never seen again, though the cave now exudes a faint, rhythmic pulse."
+      },
+      {
+        "id": "epilogue_npc_male_144",
+        "text": "     Discovered an ancient mask that seemed to whisper secrets. He put it on and walked into the night, his laughter echoing long after he vanished."
+      },
+      {
+        "id": "epilogue_npc_male_145",
+        "text": "     Claimed he could communicate with the dead. He began holding seances and eventually disappeared, his seance circle found undisturbed."
+      },
+      {
+        "id": "epilogue_npc_male_146",
+        "text": "     Found a clock that counted backward. He became obsessed with it and disappeared when it reached zero, the clock now ticking forward again."
+      },
+      {
+        "id": "epilogue_npc_male_147",
+        "text": "     Reported seeing ghostly figures guiding him. He followed them into the wilderness and was never seen again, though some claim to see his ghost wandering."
+      },
+      {
+        "id": "epilogue_npc_male_148",
+        "text": "     Discovered a plant that emitted a strange light. He began cultivating it obsessively and vanished one night, his garden now eerily luminous."
+      },
+      {
+        "id": "epilogue_npc_male_149",
+        "text": "     Found a door in the middle of nowhere. He opened it and stepped through, vanishing without a trace, the door disappearing with him."
+      },
+      {
+        "id": "epilogue_npc_male_150",
+        "text": "     Became obsessed with the idea of parallel worlds. He built a machine to travel between them and disappeared during its first test run, leaving only the machine's hum."
+      },
+      {
+        "id": "epilogue_npc_male_151",
+        "text": "     Claimed he could hear a song that no one else could. He followed the melody into the forest and never returned, the song still heard faintly on the wind."
+      },
+      {
+        "id": "epilogue_npc_male_152",
+        "text": "     Found a stone that changed colors with his mood. He became increasingly erratic and one day vanished, the stone now a dull gray."
+      },
+      {
+        "id": "epilogue_npc_male_153",
+        "text": "     Discovered a place where the stars seemed closer. He spent nights gazing at them until he disappeared, his telescope left pointing at a new, unknown constellation."
+      },
+      {
+        "id": "epilogue_npc_male_154",
+        "text": "     Found a music box that played haunting tunes. He was last seen winding it up before disappearing, the box now playing a new, unknown melody."
+      },
+      {
+        "id": "epilogue_npc_male_155",
+        "text": "     Claimed to have found the secret to eternal life. He disappeared before he could share it, leaving behind only a cryptic riddle."
+      },
+      {
+        "id": "epilogue_npc_male_156",
+        "text": "     Found a cave painting that seemed to move. He became obsessed and ventured into the cave, never to return, the painting now depicting an empty cave."
+      },
+      {
+        "id": "epilogue_npc_male_157",
+        "text": "     Began speaking in tongues, claiming to hear the voices of the ancients. He walked into a storm one night and disappeared, the storm whispering his name."
+      },
+      {
+        "id": "epilogue_npc_male_158",
+        "text": "     Discovered an ancient temple and began exploring its secrets. He vanished within its halls, and the temple has since been lost to time."
+      },
+      {
+        "id": "epilogue_npc_male_159",
+        "text": "     Found a feather that seemed to float against the wind. He followed it into the sky and disappeared, the feather now drifting aimlessly."
+      },
+      {
+        "id": "epilogue_npc_male_160",
+        "text": "     Claimed to have found a way to communicate with animals. He ventured into the wild and was never seen again, though animals often gather near his last known location."
+      },
+      {
+        "id": "epilogue_npc_male_161",
+        "text": "     Became obsessed with an ancient myth. He followed the myth's clues to a hidden place and disappeared, his notes ending abruptly."
+      },
+      {
+        "id": "epilogue_npc_male_162",
+        "text": "     Found a crystal that showed visions of other worlds. He became entranced by it and one day vanished, the crystal shattering into dust."
+      },
+      {
+        "id": "epilogue_npc_male_163",
+        "text": "     Claimed he could walk through mirrors. He stepped into one and disappeared, leaving only his reflection which occasionally moves on its own."
+      },
+      {
+        "id": "epilogue_npc_male_164",
+        "text": "     Discovered a river that flowed upstream. He followed it to its source and disappeared, the river now flowing normally."
+      },
+      {
+        "id": "epilogue_npc_male_165",
+        "text": "     Became convinced he was being watched by invisible eyes. He built a suit to hide from them and disappeared, the suit found empty."
+      },
+      {
+        "id": "epilogue_npc_male_166",
+        "text": "     Found a key that seemed to fit no lock. He spent years searching for its lock and disappeared when he finally found it, the key now rusted."
+      },
+      {
+        "id": "epilogue_npc_male_167",
+        "text": "     Claimed to have met his future self. He became obsessed with changing his fate and disappeared, leaving behind a letter addressed to himself."
       }
     ]
   },
@@ -492,6 +908,278 @@
       {
         "id": "epilogue_npc_female_59",
         "text": "     She increasingly grew fanatical as the whole world decayed around her.  In due time, she saw herself as something more than human.  Arriving at an abandoned cathedral, she climbed to the top of its spire before ringing the bells again and again.  She belched out holy harangues at the heathens below and laughed maniacally as the undead eventually tore through her body."
+      },
+      {
+        "id": "epilogue_npc_female_60",
+        "text": "     She began hearing whispers from the shadows. She followed them into the depths of an abandoned bunker and was never seen again. Some say her whispers can still be heard."
+      },
+      {
+        "id": "epilogue_npc_female_61",
+        "text": "     Claimed to have found a portal to another world. Those who went to see it found only her tattered journal filled with incomprehensible symbols."
+      },
+      {
+        "id": "epilogue_npc_female_62",
+        "text": "     Was seen speaking to an invisible entity. One day, she simply vanished, leaving behind a cryptic note that read, 'I've seen beyond the veil.'"
+      },
+      {
+        "id": "epilogue_npc_female_63",
+        "text": "     Discovered a mirror that showed impossible reflections. She spent hours staring into it until she disappeared, her reflection lingering a moment longer than it should have."
+      },
+      {
+        "id": "epilogue_npc_female_64",
+        "text": "     Found an ancient book that no one else could read. She became obsessed with it, and when the book was opened, she vanished without a trace."
+      },
+      {
+        "id": "epilogue_npc_female_65",
+        "text": "     Became convinced she was being hunted by a creature only she could see. She left a detailed map of her sightings before disappearing mysteriously."
+      },
+      {
+        "id": "epilogue_npc_female_66",
+        "text": "     Claimed to have met an immortal being. She began leaving offerings at a secluded shrine until she vanished, the shrine now surrounded by strange, glowing plants."
+      },
+      {
+        "id": "epilogue_npc_female_67",
+        "text": "     Started drawing intricate symbols on every surface. One night, she stepped into the center of her latest drawing and vanished, the symbols glowing faintly before fading away."
+      },
+      {
+        "id": "epilogue_npc_female_68",
+        "text": "     Found a strange artifact that hummed softly. She couldn't part with it, and one day, she and the artifact disappeared, leaving only a scorch mark where they stood."
+      },
+      {
+        "id": "epilogue_npc_female_69",
+        "text": "     Claimed she could see the future and began preparing for an unknown event. She left detailed prophecies before disappearing during a solar eclipse."
+      },
+      {
+        "id": "epilogue_npc_female_70",
+        "text": "     Started receiving visions of a hidden city. She left to find it, sending messages back describing impossible wonders, until the messages stopped abruptly."
+      },
+      {
+        "id": "epilogue_npc_female_71",
+        "text": "     Became obsessed with a constellation that appeared only once a century. She left to find its origin and was never seen again, the constellation's star twinkling oddly bright."
+      },
+      {
+        "id": "epilogue_npc_female_72",
+        "text": "     Found a cave that seemed to breathe. She explored its depths and was never seen again, though the cave now exudes a faint, rhythmic pulse."
+      },
+      {
+        "id": "epilogue_npc_female_73",
+        "text": "     Discovered an ancient mask that seemed to whisper secrets. She put it on and walked into the night, her laughter echoing long after she vanished."
+      },
+      {
+        "id": "epilogue_npc_female_74",
+        "text": "     Claimed she could communicate with the dead. She began holding seances and eventually disappeared, her seance circle found undisturbed."
+      },
+      {
+        "id": "epilogue_npc_female_75",
+        "text": "     Found a clock that counted backward. She became obsessed with it and disappeared when it reached zero, the clock now ticking forward again."
+      },
+      {
+        "id": "epilogue_npc_female_76",
+        "text": "     Reported seeing ghostly figures guiding her. She followed them into the wilderness and was never seen again, though some claim to see her ghost wandering."
+      },
+      {
+        "id": "epilogue_npc_female_77",
+        "text": "     Discovered a plant that emitted a strange light. She began cultivating it obsessively and vanished one night, her garden now eerily luminous."
+      },
+      {
+        "id": "epilogue_npc_female_78",
+        "text": "     Found a door in the middle of nowhere. She opened it and stepped through, vanishing without a trace, the door disappearing with her."
+      },
+      {
+        "id": "epilogue_npc_female_79",
+        "text": "     Became obsessed with the idea of parallel worlds. She built a machine to travel between them and disappeared during its first test run, leaving only the machine's hum."
+      },
+      {
+        "id": "epilogue_npc_female_80",
+        "text": "     Claimed she could hear a song that no one else could. She followed the melody into the forest and never returned, the song still heard faintly on the wind."
+      },
+      {
+        "id": "epilogue_npc_female_81",
+        "text": "     Found a stone that changed colors with her mood. She became increasingly erratic and one day vanished, the stone now a dull gray."
+      },
+      {
+        "id": "epilogue_npc_female_82",
+        "text": "     Discovered a place where the stars seemed closer. She spent nights gazing at them until she disappeared, her telescope left pointing at a new, unknown constellation."
+      },
+      {
+        "id": "epilogue_npc_female_83",
+        "text": "     Found a music box that played haunting tunes. She was last seen winding it up before disappearing, the box now playing a new, unknown melody."
+      },
+      {
+        "id": "epilogue_npc_female_84",
+        "text": "     Claimed to have found the secret to eternal life. She disappeared before she could share it, leaving behind only a cryptic riddle."
+      },
+      {
+        "id": "epilogue_npc_female_85",
+        "text": "     Found a cave painting that seemed to move. She became obsessed and ventured into the cave, never to return, the painting now depicting an empty cave."
+      },
+      {
+        "id": "epilogue_npc_female_86",
+        "text": "     Began speaking in tongues, claiming to hear the voices of the ancients. She walked into a storm one night and disappeared, the storm whispering her name."
+      },
+      {
+        "id": "epilogue_npc_female_87",
+        "text": "     Discovered an ancient temple and began exploring its secrets. She vanished within its halls, and the temple has since been lost to time."
+      },
+      {
+        "id": "epilogue_npc_female_88",
+        "text": "     Found a feather that seemed to float against the wind. She followed it into the sky and disappeared, the feather now drifting aimlessly."
+      },
+      {
+        "id": "epilogue_npc_female_89",
+        "text": "     Claimed to have found a way to communicate with animals. She ventured into the wild and was never seen again, though animals often gather near her last known location."
+      },
+      {
+        "id": "epilogue_npc_female_90",
+        "text": "     Became obsessed with an ancient myth. She followed the myth's clues to a hidden place and disappeared, her notes ending abruptly."
+      },
+      {
+        "id": "epilogue_npc_female_91",
+        "text": "     Found a crystal that showed visions of other worlds. She became entranced by it and one day vanished, the crystal shattering into dust."
+      },
+      {
+        "id": "epilogue_npc_female_92",
+        "text": "     Claimed she could walk through mirrors. She stepped into one and disappeared, leaving only her reflection which occasionally moves on its own."
+      },
+      {
+        "id": "epilogue_npc_female_93",
+        "text": "     Discovered a river that flowed upstream. She followed it to its source and disappeared, the river now flowing normally."
+      },
+      {
+        "id": "epilogue_npc_female_94",
+        "text": "     Became a farmer, teaching others how to cultivate the land. Her methods fed many, but she died during a raid on her farm."
+      },
+      {
+        "id": "epilogue_npc_female_95",
+        "text": "     Dedicated her life to building a network of underground tunnels for safe travel. She was trapped in a cave-in, her efforts saving countless lives."
+      },
+      {
+        "id": "epilogue_npc_female_96",
+        "text": "     Became a pioneer of renewable energy, constructing wind and solar farms. Her innovations powered a new age of sustainability until she was claimed by an industrial accident."
+      },
+      {
+        "id": "epilogue_npc_female_97",
+        "text": "     Spent her years crafting intricate clockwork devices, each a marvel of engineering. She was found lifeless in her workshop, surrounded by her ticking creations."
+      },
+      {
+        "id": "epilogue_npc_female_98",
+        "text": "     Lived among a tribe of mutants, bridging the gap between humans and mutants. Her diplomacy was crucial in forming alliances. She died during a peace negotiation gone wrong."
+      },
+      {
+        "id": "epilogue_npc_female_99",
+        "text": "     Became a feared bounty hunter, tracking down criminals and monsters alike. Her reputation was unmatched until she met her match in a cunning fugitive."
+      },
+      {
+        "id": "epilogue_npc_female_100",
+        "text": "     Became a vigilante, fighting for justice in lawless territories. Her exploits became legendary, but she was finally overwhelmed by a mob seeking revenge."
+      },
+      {
+        "id": "epilogue_npc_female_101",
+        "text": "     Created a series of hidden safe houses for wandering survivors. Her network provided refuge for many. She died defending one of these sanctuaries from raiders."
+      },
+      {
+        "id": "epilogue_npc_female_102",
+        "text": "     Became a pioneer of new farming techniques, growing food in even the harshest environments. Her methods were adopted widely, though she succumbed to a rare plant disease."
+      },
+      {
+        "id": "epilogue_npc_female_103",
+        "text": "     Became a storyteller, preserving oral histories of the Cataclysm. Her tales were passed down through generations, ensuring the past was never forgotten."
+      },
+      {
+        "id": "epilogue_npc_female_104",
+        "text": "     Traveled the wastelands as a medic, healing the wounded and sick. Her tireless work saved countless lives, but a virulent plague finally claimed her own."
+      },
+      {
+        "id": "epilogue_npc_female_105",
+        "text": "     Became an explorer, charting the unknown regions. Her maps were invaluable to survivors. She disappeared on her final expedition, her fate unknown."
+      },
+      {
+        "id": "epilogue_npc_female_106",
+        "text": "     Founded a new religion based on survival and resilience. Her followers flourished, though she died during a pilgrimage to a sacred site."
+      },
+      {
+        "id": "epilogue_npc_female_107",
+        "text": "     Became a craftsman, creating beautiful and functional items from salvage. Her work was highly prized. She died in her workshop, her hands still gripping her tools."
+      },
+      {
+        "id": "epilogue_npc_female_108",
+        "text": "     Lived in a lighthouse, guiding survivors safely along the coast. Her light never failed, but she was found one morning, peacefully deceased in her chair."
+      },
+      {
+        "id": "epilogue_npc_female_109",
+        "text": "     Spent her life uncovering the secrets of pre-Cataclysm technology. Her discoveries advanced survivor society. She died in her lab, her final invention unfinished."
+      },
+      {
+        "id": "epilogue_npc_female_110",
+        "text": "     Became a pirate, raiding the coasts and gathering a loyal crew. Her legend grew until she was betrayed by a crewmate, ending her reign on the high seas."
+      },
+      {
+        "id": "epilogue_npc_female_111",
+        "text": "     Created a sanctuary for lost pets, raising them as her own. Her compassion saved many furry lives. She died surrounded by the animals she loved."
+      },
+      {
+        "id": "epilogue_npc_female_112",
+        "text": "     Became a myth, said to have found a utopia. Few believed the tales, but those who did sought her wisdom. She vanished into legend, her existence debated."
+      },
+      {
+        "id": "epilogue_npc_female_113",
+        "text": "     Became a twisted surgeon, experimenting on anyone she captured. Her lair was filled with grotesque abominations. She was finally killed by a vengeful survivor, her creations left to rot."
+      },
+      {
+        "id": "epilogue_npc_female_114",
+        "text": "     Became a cannibal, preying on the weak and lost. Her camp was a horror of bones and flesh. She met her end when one of her victims escaped and led a mob back to exact brutal justice."
+      },
+      {
+        "id": "epilogue_npc_female_115",
+        "text": "     Became a feared torturer for a raider gang, enjoying the screams of her victims. Her reign of terror ended when she was overpowered and subjected to her own methods."
+      },
+      {
+        "id": "epilogue_npc_female_116",
+        "text": "     Delved into dark rituals, seeking power through forbidden means. Her experiments summoned horrors beyond comprehension, and she was torn apart by the very entities she sought to control."
+      },
+      {
+        "id": "epilogue_npc_female_117",
+        "text": "     Became a notorious slaver, capturing and selling survivors. Her cruelty was unmatched. She was finally overthrown by her captives, who left her to die slowly in the same chains she had used on others."
+      },
+      {
+        "id": "epilogue_npc_female_118",
+        "text": "     Turned to necromancy, raising the dead to do her bidding. Her undead army was feared by all, but eventually they turned on her, tearing her apart piece by piece."
+      },
+      {
+        "id": "epilogue_npc_female_119",
+        "text": "     Became a serial killer, stalking the wasteland and collecting trophies from her victims. Her lair was discovered by a group of survivors who exacted bloody vengeance upon her."
+      },
+      {
+        "id": "epilogue_npc_female_120",
+        "text": "     Became obsessed with human experimentation, creating monstrous hybrids. Her lab was a nightmarish hellscape. She died when one of her creations broke free and exacted a brutal revenge."
+      },
+      {
+        "id": "epilogue_npc_female_121",
+        "text": "     Led a cult that worshiped a dark entity, performing sacrifices to gain favor. Her followers eventually turned on her, offering her as the ultimate sacrifice."
+      },
+      {
+        "id": "epilogue_npc_female_122",
+        "text": "     Became a butcher, carving up survivors for meat. Her 'shop' was a horror show of blood and bone. She was eventually caught and butchered by a mob of enraged survivors."
+      },
+      {
+        "id": "epilogue_npc_female_123",
+        "text": "     Delved into the darkest corners of the wasteland, collecting cursed artifacts. Her collection drove her mad, and she was found dead, surrounded by objects that whispered secrets from beyond."
+      },
+      {
+        "id": "epilogue_npc_female_124",
+        "text": "     Became a grotesque puppet master, controlling people with strings and hooks. Her victims were forced to perform for her sick amusement until they turned on her, tearing her apart."
+      },
+      {
+        "id": "epilogue_npc_female_125",
+        "text": "     Lived in a decrepit mansion, capturing and torturing travelers. Her screams echoed through the halls until a group of survivors stormed the place and exacted brutal revenge."
+      },
+      {
+        "id": "epilogue_npc_female_126",
+        "text": "     Created a labyrinth of traps and horrors, luring survivors in for her twisted pleasure. She was found dead in the center of her own maze, having fallen victim to one of her own traps."
+      },
+      {
+        "id": "epilogue_npc_female_127",
+        "text": "     Became a predator, hunting humans for sport. Her trophies lined her cabin, a testament to her brutality. She was eventually outsmarted and killed by a group of her intended prey."
       }
     ]
   }

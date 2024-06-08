@@ -5,23 +5,43 @@
     "text": [
       {
         "id": "tainted_innards_1",
-        "text": "An unidentifiable selection of rotted innards that barely hold their form.  It is revolting and certainly no longer healthy to eat."
+        "text": "An unidentifiable selection of rotted innards that barely hold their form. It is revolting and certainly no longer healthy to eat. The sickly stench of decay emanates from it, making your stomach churn."
       },
       {
         "id": "tainted_innards_2",
-        "text": "This looks like a stomach and length of intestine, if they were made of lung tissue.  Every now and then you notice it expanding or contracting slightly.  It looks dangerous to eat, maybe even to handle."
+        "text": "This looks like a stomach and length of intestine, if they were made of lung tissue. Every now and then you notice it expanding or contracting slightly. It looks dangerous to eat, maybe even to handle. The surface is dotted with pus-filled blisters."
       },
       {
         "id": "tainted_innards_3",
-        "text": "A clump of rotten entrails.  The sallow membranes that link these lobes of flesh together are lined with blackened veins and capillaries.  A caul of slime coats them all in a greasy sheen.  You should not put this anywhere near your mouth."
+        "text": "A clump of rotten entrails. The sallow membranes that link these lobes of flesh together are lined with blackened veins and capillaries. A caul of slime coats them all in a greasy sheen. You should not put this anywhere near your mouth. It oozes a dark, foul-smelling liquid."
       },
       {
         "id": "tainted_innards_4",
-        "text": "Zombie guts.  Your appetite may have been spoiled by one look at the twisted, compacted tubes and sacs that form this clump of foul entrails.  Why then does it make you think of frozen spaghetti and meatballs?"
+        "text": "Zombie guts. Your appetite may have been spoiled by one look at the twisted, compacted tubes and sacs that form this clump of foul entrails. Why then does it make you think of frozen spaghetti and meatballs? The thought lingers unpleasantly in your mind."
       },
       {
         "id": "tainted_innards_5",
-        "text": "The inner contents of the walking dead.  It's hard to tell exactly what kind of tissue this may have once been.  Several structures appear to have molded together."
+        "text": "The inner contents of the walking dead. It's hard to tell exactly what kind of tissue this may have once been. Several structures appear to have molded together. A pungent odor of rot and chemicals fills the air around it."
+      },
+      {
+        "id": "tainted_innards_6",
+        "text": "A grotesque assortment of putrefied organs. The flesh is marbled with sickly green and black patches, indicating severe necrosis. Touching it leaves a sticky, foul residue on your hands."
+      },
+      {
+        "id": "tainted_innards_7",
+        "text": "An abomination of innards, partially liquefied and barely holding together. The mass pulses faintly, suggesting some lingering, unnatural activity within. The thought of consuming this is beyond repulsive."
+      },
+      {
+        "id": "tainted_innards_8",
+        "text": "A heap of decomposed intestines and other organs, seemingly stitched together by strands of decayed tissue. The entire mass trembles slightly as if it possesses a life of its own. Best to keep your distance."
+      },
+      {
+        "id": "tainted_innards_9",
+        "text": "This collection of internal organs is a horror show of decomposition. The surfaces are covered in a thick, dark mucus, and the entire mass gives off a faint, ominous glow. You instinctively recoil from it."
+      },
+      {
+        "id": "tainted_innards_10",
+        "text": "A nauseating bundle of corrupted flesh. The organs are so decayed that they are almost unrecognizable. There is a disturbing presence about it, as if it might suddenly come to life. The air around it seems colder."
       }
     ]
   },
@@ -31,27 +51,43 @@
     "text": [
       {
         "id": "skull_human_tainted_1",
-        "text": "The stained skull of what was once a human being.  It is rotted and noticeably warped from its living form."
+        "text": "The stained skull of what was once a human being. It is rotted and noticeably warped from its living form. The surface is covered in dark, fungal patches, and the bone is pitted and brittle."
       },
       {
         "id": "skull_human_tainted_2",
-        "text": "The stained skull of a former human.  Whatever turned their flesh to walking in death, it left its mark on their bones."
+        "text": "The stained skull of a former human. Whatever turned their flesh to walking in death, it left its mark on their bones. The bone structure appears almost melted in places, with jagged edges and deep cracks."
       },
       {
         "id": "skull_human_tainted_3",
-        "text": "A rotted skull from a human zombie.  It feels more flexible than it should, like stiff leather, no longer natural bone."
+        "text": "A rotted skull from a human zombie. It feels more flexible than it should, like stiff leather, no longer natural bone. The jaw hangs loosely, barely attached by sinews of decayed flesh."
       },
       {
         "id": "skull_human_tainted_4",
-        "text": "The brain has ossified inside this tainted skull.  It doesn't feel noticeably heavier and you surmise that the brain-turned-bone must be deeply porous or hollow itself."
+        "text": "The brain has ossified inside this tainted skull. It doesn't feel noticeably heavier and you surmise that the brain-turned-bone must be deeply porous or hollow itself. The inner cavity is lined with a strange, crystalline growth."
       },
       {
         "id": "skull_human_tainted_5",
-        "text": "This pitted human skull is filled with teeth, few of them where they should be.  You can see them growing in the hollows that have developed, their roots grown long and winding, more like those of a tree."
+        "text": "This pitted human skull is filled with teeth, few of them where they should be. You can see them growing in the hollows that have developed, their roots grown long and winding, more like those of a tree. Some teeth have even pierced through the skull's surface."
       },
       {
         "id": "skull_human_tainted_6",
-        "text": "The teeth of this lopsided human skull have melded together like hot wax and joined with the maxilla.  The eye sockets are drooping and canted to the side as if shaped while soft.  Most of the suture joints of the cranium are fused over with thick lines of growth as if soldered together with bone."
+        "text": "The teeth of this lopsided human skull have melded together like hot wax and joined with the maxilla. The eye sockets are drooping and canted to the side as if shaped while soft. Most of the suture joints of the cranium are fused over with thick lines of growth as if soldered together with bone. It gives the skull a grotesquely malformed appearance."
+      },
+      {
+        "id": "skull_human_tainted_7",
+        "text": "The surface of this skull is riddled with holes, as if something has burrowed through the bone. The holes are irregular and numerous, making the skull look like a piece of Swiss cheese. It exudes a faint, putrid odor."
+      },
+      {
+        "id": "skull_human_tainted_8",
+        "text": "This human skull has a dark, almost black hue, as if it has been charred. The bone is brittle to the touch, and small pieces flake off easily. The eye sockets seem to glow with a faint, eerie light when viewed in the dark."
+      },
+      {
+        "id": "skull_human_tainted_9",
+        "text": "A human skull with unnatural protrusions. Sharp, bony spikes jut out from various points, particularly around the forehead and jaw. The spikes are razor-sharp and look like they could easily pierce flesh."
+      },
+      {
+        "id": "skull_human_tainted_10",
+        "text": "The interior of this skull is lined with a slimy, greenish mold. The mold seems to be eating away at the bone, creating a network of tiny tunnels and cavities. Touching it leaves a sticky residue on your fingers."
       }
     ]
   },
@@ -61,15 +97,43 @@
     "text": [
       {
         "id": "arm_zed_1",
-        "text": "A rotted and then shredded arm.  Not much use unless you want to scrape the rancid meat from the bones."
+        "text": "A rotted and then shredded arm. Not much use unless you want to scrape the rancid meat from the bones. The fingers are twisted and claw-like, with the nails blackened and broken."
       },
       {
         "id": "arm_zed_2",
-        "text": "Little tainted meat remains on whatever limb bones these were.  It still bends at the joint but doesn't look to be moving on its own anymore."
+        "text": "Little tainted meat remains on whatever limb bones these were. It still bends at the joint but doesn't look to be moving on its own anymore. The exposed bone is porous and discolored, giving off a faint, sickly odor."
       },
       {
         "id": "arm_zed_3",
-        "text": "This jaundiced zombie's arm still bears a full sleeve tattoo.  Quality work from what you can tell through all the rot."
+        "text": "This jaundiced zombie's arm still bears a full sleeve tattoo. Quality work from what you can tell through all the rot. The ink has bled into the surrounding tissue, giving the designs a surreal, almost psychedelic appearance."
+      },
+      {
+        "id": "arm_zed_4",
+        "text": "An arm that appears to have been gnawed on by other zombies. The bite marks are deep and jagged, and the flesh is hanging in ragged strips. It's a gruesome sight, with the bone partially exposed."
+      },
+      {
+        "id": "arm_zed_5",
+        "text": "This zombie arm is bloated and covered in festering sores. Pus oozes from the open wounds, and the skin is stretched tight over the underlying bone. It looks ready to burst at any moment."
+      },
+      {
+        "id": "arm_zed_6",
+        "text": "A skeletal zombie arm with bits of dried flesh still clinging to it. The bones are brittle and snap easily under pressure. The hand is clenched into a tight fist, as if it died grasping something it never found."
+      },
+      {
+        "id": "arm_zed_7",
+        "text": "This arm is missing its hand entirely, the stump ragged and torn. It's clear that whatever happened was violent, the break jagged and uneven. The arm is covered in a slimy film, giving it a repulsive sheen."
+      },
+      {
+        "id": "arm_zed_8",
+        "text": "A surprisingly intact zombie arm with an eerily smooth texture. The skin looks almost polished, and the muscles beneath have hardened to the consistency of leather. It doesn't look like it should belong to something dead."
+      },
+      {
+        "id": "arm_zed_9",
+        "text": "This arm is covered in patches of mold and fungus. The growths have taken over large sections of the flesh, sprouting out in various shapes and colors. It's more plant than arm at this point."
+      },
+      {
+        "id": "arm_zed_10",
+        "text": "A twisted zombie arm with multiple fractures. The bones have healed at odd angles, making the limb look deformed and unnatural. The fingers are long and spindly, giving it a spider-like appearance."
       }
     ]
   },
@@ -79,55 +143,106 @@
     "text": [
       {
         "id": "leg_zed_1",
-        "text": "What's left of some zombie's limb.  Most likely a leg based on the proportions.  Though it's rotted, there is quite a bit of meat still on it."
+        "text": "What's left of some zombie's limb. Most likely a leg based on the proportions. Though it's rotted, there is quite a bit of meat still on it. The flesh is mottled and blackened, with the remnants of tattered clothing clinging to it."
       },
       {
         "id": "leg_zed_2",
-        "text": "You think this decaying severed limb ends in a foot.  It's actually hard to tell after the hell it's been through."
+        "text": "You think this decaying severed limb ends in a foot. It's actually hard to tell after the hell it's been through. The bones are jutting out at odd angles, and the entire leg is covered in a sickly green slime."
       },
       {
         "id": "leg_zed_3",
-        "text": "A fat zombie haunch.  It doesn't look tasty but the shape is undeniably close to a large fried chicken leg.  The skin is even the right texture, though for the wrong reasons."
+        "text": "A fat zombie haunch. It doesn't look tasty but the shape is undeniably close to a large fried chicken leg. The skin is even the right texture, though for the wrong reasons. The muscle beneath is tough and sinewy, with patches of necrotic tissue."
+      },
+      {
+        "id": "leg_zed_4",
+        "text": "This zombie leg has been partially gnawed on, possibly by other zombies. The bite marks are deep, revealing layers of muscle and bone. The foot is twisted at an unnatural angle, the toes curling inward grotesquely."
+      },
+      {
+        "id": "leg_zed_5",
+        "text": "A severed zombie limb with a rusty chain wrapped around it. The chain has cut deep into the flesh, embedding itself in the rotting tissue. The leg ends in a cracked and broken foot, with the nails missing from most of the toes."
+      },
+      {
+        "id": "leg_zed_6",
+        "text": "This zombie leg is covered in a thick layer of mold and fungi. The growths have overtaken the flesh, sprouting in various shapes and colors. It's a disgusting mix of organic decay and fungal infestation."
+      },
+      {
+        "id": "leg_zed_7",
+        "text": "A skeletal zombie leg with scraps of dried, leathery skin still clinging to it. The bones are brittle and snap easily under pressure. The knee joint is locked in a permanent bend, making it look like the leg is trying to run even in death."
+      },
+      {
+        "id": "leg_zed_8",
+        "text": "This leg is bloated and distended, the skin stretched tight over the swollen flesh. It looks ready to burst at any moment, oozing pus from multiple sores. The ankle is twisted, the foot hanging limply to one side."
+      },
+      {
+        "id": "leg_zed_9",
+        "text": "A surprisingly intact zombie leg, though the skin is a pallid, waxy color. The muscle beneath is firm, almost solidified, giving the leg an eerie, preserved appearance. The toenails are thick and yellowed, curling over the ends of the toes."
+      },
+      {
+        "id": "leg_zed_10",
+        "text": "This leg is covered in deep lacerations, as if it had been slashed repeatedly. The wounds have not healed, and the flesh around them is blackened and necrotic. The leg ends in a foot that is missing several toes, the stubs raw and bloody."
       }
     ]
   },
   {
     "type": "snippet",
-    "category": "<zombie_humanoid_harvest_general>",
+    "category": "zombie_humanoid_harvest_general",
     "text": [
       "As you make your first cut into its skin, a pressurized jet of decaying blood almost hits your face.",
       "The overbearing sweet smell of decay emanating from the carcass forces you to take short breaks during your work to not puke.",
       "As you cut through the muscle, it tenses up in reaction.",
       "You spot a few flies and maggots in the corpse, their chosen carcass not seeming to be very good for them, as most seem moribund.",
       "Random cavities in its body make you think it was at least partially feeding on its own tissues to keep functioning.",
-      "The corpse twitches as you begin.  It didn't feel like rigor mortis.",
+      "The corpse twitches as you begin. It didn't feel like rigor mortis.",
       "The body stirs as you open it up, suggesting it's still trying to attack, and reminding you to be cautious.",
-      "You begin your dissection - though, vivisection would be more appropriate, as you find the corpse not as still as you once thought."
+      "You begin your dissection - though, vivisection would be more appropriate, as you find the corpse not as still as you once thought.",
+      "A putrid gas escapes as you make an incision, the release of pressure causing the flesh to bloat and then deflate. The odor is overwhelmingly acrid, burning your throat and eyes.",
+      "The bones are brittle and splinter under the slightest pressure, revealing marrow that is a sickly green color. The sight is both fascinating and revolting.",
+      "As you peel back the skin, you notice strange growths embedded in the muscle tissue. Tumors or cysts, perhaps, filled with a thick, black fluid that oozes out slowly.",
+      "The heart, if you can call it that, is still faintly beating, each sluggish pulse sending a shiver down your spine. It's more of a lump of tissue than a functional organ, but it clings to life stubbornly.",
+      "The intestines are knotted and twisted, filled with a mix of undigested food and rot. The smell is enough to make your stomach churn, and you have to fight the urge to retch.",
+      "As you cut deeper, you find the lungs are more like sponges soaked in blood, collapsing under their own weight. The tissue is friable, crumbling to the touch.",
+      "The brain is a curious sight, half-decayed and riddled with what looks like fungal growths. It pulses gently, as if dreaming of the life it once had.",
+      "A pool of thick, black bile gathers around the incision site, seeping from every cut you make. It stains your gloves and tools, a persistent reminder of the creature's corruption.",
+      "The veins are engorged, pulsating with a slow, sluggish rhythm. The blood within is thick and tar-like, sticking to everything it touches.",
+      "As you work, the flesh seems to resist your efforts, as if trying to heal or protect itself. It's a disturbing sensation, feeling the tissue fight back against your scalpel.",
+      "The cartilage is surprisingly tough, resisting your cuts with a resilience that feels almost intentional, as if the body is fighting against your efforts to dissect it."
     ]
   },
   {
     "type": "snippet",
-    "category": "<zombie_animal_harvest_general>",
+    "category": "zombie_animal_harvest_general",
     "text": [
       "As you make your first cut into its skin, a pressurized jet of decaying blood almost hits your face.",
       "The overbearing sweet smell of decay emanating from the carcass forces you to take short breaks during your work to not puke.",
       "As you cut through the muscle, it tenses up in reaction.",
       "You spot a few flies and maggots in the corpse, their chosen carcass not seeming to be very good for them, as most seem moribund.",
       "Random cavities in its body make you think it was at least partially feeding on its own tissues to keep functioning.",
-      "The corpse twitches as you begin.  It didn't feel like rigor mortis.",
+      "The corpse twitches as you begin. It didn't feel like rigor mortis.",
       "The body stirs as you open it up, suggesting it's still trying to attack, and reminding you to be cautious.",
-      "You begin your dissection - though, vivisection would be more appropriate, as you find the corpse not as still as you once thought."
+      "You begin your dissection - though, vivisection would be more appropriate, as you find the corpse not as still as you once thought.",
+      "The fur is matted with a thick layer of grime and rot, making it difficult to find a clean spot to start your incision.",
+      "As you peel back the skin, you notice patches of necrotic tissue that seem almost fossilized, merging with the bones underneath.",
+      "The muscle fibers are darkened and rigid, showing signs of advanced decay and giving off a metallic odor that mixes unpleasantly with the smell of rot.",
+      "The internal organs are swollen and discolored, with the liver and kidneys showing signs of severe necrosis and emitting a foul-smelling liquid.",
+      "The heart is barely recognizable, more of a shriveled mass than a functioning organ, yet it occasionally gives a weak, involuntary twitch.",
+      "The lungs are filled with a viscous, black substance that bubbles slightly as you cut through them, releasing a burst of noxious gas.",
+      "The brain appears to be infested with some kind of parasitic growth, tendrils wrapping around the grey matter and pulsating slowly.",
+      "The bones crack under the pressure of your tools, revealing a marrow that has turned to a thick, gelatinous sludge.",
+      "You find foreign objects embedded in the flesh, remnants of whatever it had been through before it finally fell.",
+      "The veins are filled with a thick, black ichor that oozes out sluggishly, sticking to your gloves and tools like tar.",
+      "The skin seems to resist your cuts, stretching unnaturally as if trying to avoid being sliced open.",
+      "The claws and teeth are in surprisingly good condition, almost as if the decay had preserved them instead of eroding them."
     ]
   },
   {
     "type": "snippet",
-    "category": "<zombie_humanoid_harvest_general_deeper>",
+    "category": "zombie_humanoid_harvest_general_deeper",
     "text": [
       "The majority of the digestive tract seems to have reshaped into a singular stomach.",
       "Some organs have atrophied or outright dissolved entirely.",
       "The heart is overtaken by a mass of fistulas and other growths.",
       "The thing's innards resemble one giant tumor more than the body of a human being.",
-      "The thing's feet are entirely calloused and the smaller toes are completely vestigal, simply a bump with a dead nail on them.",
+      "The thing's feet are entirely calloused and the smaller toes are completely vestigial, simply a bump with a dead nail on them.",
       "This person had a tattoo on their arm - said tattoo has reappeared in multiple spots along the inner tissues and the walls of organs.",
       "The front part of the brain is completely missing, with spongy, half-formed bone in its place.",
       "While its individual fingers appear to be losing their dexterity, the zombie's flexor muscles are tense and swollen.",
@@ -146,18 +261,31 @@
       "The thing's innards churn slightly even as you dig through them.",
       "As you finish up, you notice your earliest cuts seem to be the tiniest bit smaller.",
       "To your \"delight,\" you find a tapeworm in its gut, turgid but seemingly dead.",
-      "As you cut into its stomach, the insane fragmentary remains of some creature it devoured, which appears to have melded with its own tissues, attempt to claw at your hand before you bludgeon them until they cease moving."
+      "As you cut into its stomach, the insane fragmentary remains of some creature it devoured, which appears to have melded with its own tissues, attempt to claw at your hand before you bludgeon them until they cease moving.",
+      "A thick, black sludge oozes from the liver, its consistency more like tar than any bodily fluid.",
+      "You find clusters of cysts within the muscle tissue, some of which burst open to release a foul-smelling liquid.",
+      "The spine is encased in a hardened sheath of calcified growths, making it almost impossible to sever.",
+      "The lungs are riddled with holes, yet somehow they still manage to inflate slightly.",
+      "A network of what looks like fungal hyphae spreads through the body, linking organs in a grotesque web.",
+      "You come across a pocket of gas within the abdominal cavity that releases a putrid stench when pierced.",
+      "The bone marrow has solidified into a dense, fibrous mass, making it difficult to extract samples.",
+      "The eye sockets are empty, but the surrounding tissue is still oddly responsive to light.",
+      "The hair on the head has mostly fallen out, but thick tufts have started growing from the torso and limbs.",
+      "A bizarre mix of animal and human teeth is embedded in the gums, each one looking distinctly out of place.",
+      "The nails have grown into long, twisted claws, curving back into the flesh painfully.",
+      "Embedded within the skull is a small, metallic object, possibly a fragment from some kind of shrapnel.",
+      "The digestive tract is partially lined with a tough, leathery substance that resists your scalpel."
     ]
   },
   {
     "type": "snippet",
-    "category": "<zombie_humanoid_harvest_headless_deeper>",
+    "category": "zombie_humanoid_harvest_headless_deeper",
     "text": [
       "The majority of the digestive tract seems to have reshaped into a singular stomach.",
       "Some organs have atrophied or outright dissolved entirely.",
       "The heart is overtaken by a mass of fistulas and other growths.",
       "The thing's innards resemble one giant tumor more than the body of a human being.",
-      "The thing's feet are entirely calloused and the smaller toes are completely vestigal, simply a bump with a dead nail on them.",
+      "The thing's feet are entirely calloused and the smaller toes are completely vestigial, simply a bump with a dead nail on them.",
       "This person had a tattoo on their arm - said tattoo has reappeared in multiple spots along the inner tissues and the walls of organs.",
       "While its individual fingers appear to be losing their dexterity, the zombie's flexor muscles are tense and swollen.",
       "This person had an artificial hip, but it's completely overgrown with bone now.",
@@ -172,12 +300,26 @@
       "The thing's innards churn slightly even as you dig through them.",
       "As you finish up, you notice your earliest cuts seem to be the tiniest bit smaller.",
       "To your \"delight,\" you find a tapeworm in its gut, turgid but seemingly dead.",
-      "As you cut into its stomach, the insane fragmentary remains of some creature it devoured, which appears to have melded with its own tissues, attempt to claw at your hand before you bludgeon them until they cease moving."
+      "As you cut into its stomach, the insane fragmentary remains of some creature it devoured, which appears to have melded with its own tissues, attempt to claw at your hand before you bludgeon them until they cease moving.",
+      "A thick, black sludge oozes from the liver, its consistency more like tar than any bodily fluid.",
+      "You find clusters of cysts within the muscle tissue, some of which burst open to release a foul-smelling liquid.",
+      "The spine is encased in a hardened sheath of calcified growths, making it almost impossible to sever.",
+      "The lungs are riddled with holes, yet somehow they still manage to inflate slightly.",
+      "A network of what looks like fungal hyphae spreads through the body, linking organs in a grotesque web.",
+      "You come across a pocket of gas within the abdominal cavity that releases a putrid stench when pierced.",
+      "The bone marrow has solidified into a dense, fibrous mass, making it difficult to extract samples.",
+      "The hair on the head has mostly fallen out, but thick tufts have started growing from the torso and limbs.",
+      "A bizarre mix of animal and human teeth is embedded in the gums, each one looking distinctly out of place.",
+      "The nails have grown into long, twisted claws, curving back into the flesh painfully.",
+      "Embedded within the skull is a small, metallic object, possibly a fragment from some kind of shrapnel.",
+      "The digestive tract is partially lined with a tough, leathery substance that resists your scalpel.",
+      "A strange network of nerves seems to have overtaken the remaining organ structures, pulsating rhythmically as if still alive.",
+      "The esophagus appears to merge with the trachea halfway down, forming a bizarre hybrid structure."
     ]
   },
   {
     "type": "snippet",
-    "category": "<zombie_animal_harvest_general_deeper>",
+    "category": "zombie_animal_harvest_general_deeper",
     "text": [
       "The majority of the digestive tract seems to have reshaped into a singular stomach.",
       "Some organs have atrophied or outright dissolved entirely.",
@@ -198,7 +340,21 @@
       "The thing's innards churn slightly even as you dig through them.",
       "As you finish up, you notice your earliest cuts seem to be the tiniest bit smaller.",
       "To your \"delight,\" you find a tapeworm in its gut, turgid but seemingly dead.",
-      "As you cut into its stomach, the insane fragmentary remains of some creature it devoured, which appears to have melded with its own tissues, attempt to claw at your hand before you bludgeon them until they cease moving."
+      "As you cut into its stomach, the insane fragmentary remains of some creature it devoured, which appears to have melded with its own tissues, attempt to claw at your hand before you bludgeon them until they cease moving.",
+      "A thick, black sludge oozes from the liver, its consistency more like tar than any bodily fluid.",
+      "You find clusters of cysts within the muscle tissue, some of which burst open to release a foul-smelling liquid.",
+      "The spine is encased in a hardened sheath of calcified growths, making it almost impossible to sever.",
+      "The lungs are riddled with holes, yet somehow they still manage to inflate slightly.",
+      "A network of what looks like fungal hyphae spreads through the body, linking organs in a grotesque web.",
+      "You come across a pocket of gas within the abdominal cavity that releases a putrid stench when pierced.",
+      "The bone marrow has solidified into a dense, fibrous mass, making it difficult to extract samples.",
+      "The hair on the head has mostly fallen out, but thick tufts have started growing from the torso and limbs.",
+      "A bizarre mix of animal and human teeth is embedded in the gums, each one looking distinctly out of place.",
+      "The nails have grown into long, twisted claws, curving back into the flesh painfully.",
+      "Embedded within the skull is a small, metallic object, possibly a fragment from some kind of shrapnel.",
+      "The digestive tract is partially lined with a tough, leathery substance that resists your scalpel.",
+      "A strange network of nerves seems to have overtaken the remaining organ structures, pulsating rhythmically as if still alive.",
+      "The esophagus appears to merge with the trachea halfway down, forming a bizarre hybrid structure."
     ]
   },
   {
@@ -209,7 +365,22 @@
       "Its massive diaphragm seems to have been the only correctly sustained muscle of this starved corpse.",
       "A careless move dislodges some remaining air causing the throat of the undead monster to emit one more choked scream.",
       "The slack jaws and starved body of this creature make you think that it would have struggled to seriously harm anything on its own.",
-      "Its distended lungs seem to be partially lined with a black and sticky mucus membrane."
+      "Its distended lungs seem to be partially lined with a black and sticky mucus membrane.",
+      "You notice an abnormal thickness in the vocal cords, as if they've been modified to produce the loud, piercing screams.",
+      "Despite the decay, the lungs remain surprisingly elastic, capable of holding an extraordinary amount of air.",
+      "The windpipe appears reinforced, possibly to withstand the extreme pressure generated during its screams.",
+      "Within the mouth, the tongue is unusually long and flexible, perhaps aiding in the creature's vocalizations.",
+      "The ribcage is expanded, allowing for a greater volume of air intake than a typical human.",
+      "Embedded in the throat, you find what looks like calcified nodules, possibly remnants of some unknown infection.",
+      "The creature's nasal passages are widened, suggesting it could draw in and expel air more rapidly.",
+      "Its chest cavity houses strange, fibrous growths that seem to connect directly to the lungs, hinting at an unnatural adaptation for producing sound.",
+      "The trachea splits into multiple smaller tubes, each leading to different parts of the lungs, allowing for a complex range of sounds.",
+      "The remnants of what might have been a secondary set of vocal cords are present, though they are mostly degraded.",
+      "A thick, dark fluid coats the inside of the lungs, possibly acting as a lubricant to prevent damage from rapid air movement.",
+      "The lower jaw is reinforced with dense muscle tissue, potentially to stabilize the head during intense vocalization.",
+      "You find evidence of repeated strain on the diaphragm, with fibers thicker than normal, indicating frequent and forceful use.",
+      "The sternum is cracked and healed in multiple places, suggesting violent chest contractions during its life as a screamer.",
+      "The auditory canals are widened, possibly to accommodate for the loud noises it produced, which might have damaged a normal ear."
     ]
   },
   {
@@ -220,7 +391,22 @@
       "Black liquid bubbles in the places where you managed to remove its skeletal growths.",
       "This one's armor falls off surprisingly easily, almost as if whatever puppets it wishes for it to lose the extra weight.",
       "The layout and segmentation of its bony carapace disturbingly resembles what you want to call plate mail, but it's closer to the armor of an arthropod.",
-      "These plates are almost impossible to remove until you realize they are linked to the internal skeleton with calcified pillars you must break before removing its armor."
+      "These plates are almost impossible to remove until you realize they are linked to the internal skeleton with calcified pillars you must break before removing its armor.",
+      "The bone plates are surprisingly dense, with a texture more akin to stone than typical bone.",
+      "Underneath the bone armor, the flesh is fused to the plates, making separation a delicate and grisly task.",
+      "You notice the bone plates have tiny, porous openings, perhaps for some unknown biological function.",
+      "As you pry off the bone plates, you reveal a layer of thick, blackened tissue adhering to the underside.",
+      "The bone armor extends to cover even the knuckles and joints, offering the creature a macabre form of protection.",
+      "Each plate seems to be interlocked with the next, forming a seamless barrier that's both rigid and flexible.",
+      "Strangely, the bone plates emit a faint, low-frequency hum when disturbed, adding to the eerie atmosphere.",
+      "Removing a particularly large plate, you discover a network of nerves embedded within, suggesting the armor is sensitive to touch.",
+      "Some of the bone plates are fractured, revealing a honeycomb-like structure within that might have provided lightweight strength.",
+      "The edges of the bone plates are sharp and jagged, capable of inflicting damage even as they are removed.",
+      "Beneath the carapace, you find remnants of the creature's original skin, now leathery and fused with the bone.",
+      "The bone plates show signs of growth, with new layers forming over older, damaged sections.",
+      "The joints of the bone armor are reinforced with additional calcified segments, ensuring durability and range of motion.",
+      "When you finally detach the bone plates, the exposed body seems almost skeletal, with minimal muscle and tissue remaining.",
+      "The bone plates have a slight iridescent sheen, catching the light in a way that seems almost unnatural."
     ]
   },
   {
@@ -231,7 +417,22 @@
       "Black liquid bubbles in the places where you managed to remove its skeletal growths.",
       "This one's armor falls off surprisingly easily, almost as if whatever puppets it wishes for it to lose the extra weight.",
       "The layout and segmentation of its bony carapace disturbingly resembles what you want to call plate mail, but it's closer to the armor of an arthropod.",
-      "These plates are almost impossible to remove until you realize they are linked to the internal skeleton with calcified pillars you must break before removing its armor."
+      "These plates are almost impossible to remove until you realize they are linked to the internal skeleton with calcified pillars you must break before removing its armor.",
+      "The bone plates are interlocked with organic tendrils, making separation a painstaking process.",
+      "Underneath the armor, the skin is a patchwork of scars and decayed tissue fused to the bone.",
+      "The bone plates emit a faint, eerie glow when disturbed, hinting at some residual energy within.",
+      "As you remove a plate, you uncover a network of hardened veins running through it, suggesting a former blood supply.",
+      "The plates are covered in strange, runic patterns that seem to be carved into the bone itself.",
+      "Each plate is surprisingly lightweight, despite its sturdy appearance, and feels almost hollow.",
+      "The edges of the plates are serrated, likely used as natural weapons by the creature.",
+      "Beneath the carapace, the muscle tissue is taut and stringy, adhering tightly to the skeletal structure.",
+      "The plates have a rough, sandpaper-like texture, making them difficult to grip.",
+      "Some of the plates are cracked, revealing a fibrous inner core that resembles sinew.",
+      "Removing a section of the carapace reveals small, pulsating sacs of fluid, possibly related to the creature's circulatory system.",
+      "The bone plates are surprisingly warm to the touch, suggesting some lingering biological activity.",
+      "The armor is segmented in such a way that it allows the creature a remarkable range of motion.",
+      "Tiny, insect-like creatures scurry out from beneath the plates as you pry them off, adding to the horror of the process.",
+      "The carapace has areas where the bone has overgrown, forming spikes and ridges that add to its defensive capabilities."
     ]
   },
   {
@@ -243,7 +444,21 @@
       "Pressed against the liver is a swollen gland the size of a golfball, still somewhat functioning, pumping out acrid fluids.",
       "Most cavities in its anatomy seem to have been filled with an acidic solution mixed with a foul black liquid and pieces of its slowly melting tissues.",
       "You are almost certain that its flesh should not be able to contain such a virulently aggressive liquid, yet, it does.",
-      "You have to step back as a gland you inadvertently cut into seems to perform a neutralization reaction between its contents and the rest of its fluids."
+      "You have to step back as a gland you inadvertently cut into seems to perform a neutralization reaction between its contents and the rest of its fluids.",
+      "As you cut deeper, you notice the acidic fluid seems to be corroding your tools, requiring frequent cleaning.",
+      "A hissing sound accompanies every incision, indicating the presence of acid reacting with the air.",
+      "The acidic substance appears to be eating away at the surrounding flesh, causing it to bubble and froth.",
+      "You discover pockets of gas trapped within the tissue, releasing a foul-smelling vapor when punctured.",
+      "Some of the acid splashes onto your gloves, immediately causing a sizzling and smoking reaction.",
+      "The acid within the corpse is strangely luminescent, casting an eerie glow on the surrounding tissue.",
+      "A layer of hardened, scaly tissue seems to protect certain organs from the acidic environment inside the body.",
+      "The stomach appears to have developed an extra lining, possibly as a defense against its own corrosive contents.",
+      "You notice the acid seems to be more concentrated in certain areas, suggesting specialized glands or sacs within the body.",
+      "Upon closer inspection, you find that some of the acid has crystallized, forming sharp, jagged structures within the flesh.",
+      "The internal structure of the body seems to have adapted to contain the acid, with reinforced membranes and tissues.",
+      "The acid appears to be slowly dissolving the bones, leaving them brittle and porous.",
+      "As you extract a particularly large gland, it bursts, releasing a stream of acid that narrowly misses your face.",
+      "You find evidence of chemical burns on the surrounding tissues, indicating the acid has been leaking internally for some time."
     ]
   },
   {
@@ -255,7 +470,21 @@
       "Most cavities in its anatomy seem to have been filled with an acidic solution mixed with a foul black liquid and pieces of its slowly melting tissues.",
       "You are almost certain that its flesh should not be able to contain such a virulently aggressive liquid, yet, it does.",
       "Pressed against the liver is a swollen gland the size of a golfball, still somewhat functioning, pumping out acrid fluids.",
-      "You have to step back as a gland you inadvertently cut into seems to perform a neutralization reaction between its contents and the rest of its fluids."
+      "You have to step back as a gland you inadvertently cut into seems to perform a neutralization reaction between its contents and the rest of its fluids.",
+      "A strange bubbling sound accompanies each cut, as the acid reacts violently with the air.",
+      "The acid within the animal’s body seems to have corroded many of its internal organs beyond recognition.",
+      "Some of the acid splashes onto your gloves, immediately causing a sizzling and smoking reaction.",
+      "You find crystallized deposits of acid within the muscle tissue, making it difficult to cut through.",
+      "The acid appears to have created hollow pockets within the organs, which release a foul-smelling gas when punctured.",
+      "You notice the acid has stained the surrounding tissue a deep black, contrasting sharply with the decaying flesh.",
+      "A section of the intestine seems to have been reinforced with a tougher lining, likely an adaptation to contain the acid.",
+      "The heart is partially encased in a hardened shell, protecting it from the acidic environment.",
+      "As you delve deeper, you discover that the acid has started to dissolve the bones, leaving them brittle and porous.",
+      "You extract a gland that appears to be the main source of the acid, but it bursts, releasing a stream of the corrosive liquid.",
+      "The internal structure of the animal seems to have adapted to contain the acid, with reinforced membranes and tissues.",
+      "The acid appears to have a luminescent quality, casting an eerie glow inside the body cavity.",
+      "You find evidence of chemical burns on the surrounding tissues, indicating the acid has been leaking internally for some time.",
+      "The acidic fluid seems to be more concentrated in certain areas, suggesting specialized glands or sacs within the body."
     ]
   },
   {
@@ -266,7 +495,22 @@
       "The lingering shadows surrounding it make your work quite a lot harder as they seem to deliberately grow more opaque around your tool as if they wished to hide the monster's secrets.",
       "You spot a few pores still weakly sputtering thin puffs of black smoke, investigating them further reveals glands full of fuming black liquid linked to the pores with long tubes.",
       "You make one incision and the resulting cloud of black smoke forces you to take a short break as it becomes impossible to see anything.",
-      "Despite it not being very evident from the outside, it seems the entire digestive tract of the abomination was bloated with its obscuring smoke."
+      "Despite it not being very evident from the outside, it seems the entire digestive tract of the abomination was bloated with its obscuring smoke.",
+      "The shadows seem to retreat reluctantly as you cut deeper, as if they have a mind of their own.",
+      "You notice that the shadowy substance has left a strange, oily residue on your tools and gloves.",
+      "Occasionally, the shadows flicker and shift, almost as if the corpse is still alive and trying to protect itself.",
+      "The organs appear to be stained with an inky blackness that makes identifying them nearly impossible.",
+      "Some tissues seem to absorb the light around them, creating patches of unnaturally deep darkness.",
+      "You find small, hardened nodules within the muscles that, when broken open, release more of the shadowy smoke.",
+      "The bones have an unusual texture, almost like they are coated in a thin layer of soot.",
+      "As you delve further, you find that the shadowy substance has infiltrated every part of the body, from the skin to the marrow.",
+      "The creature’s blood is thick and black, leaving dark streaks on everything it touches.",
+      "Every cut you make seems to close slightly as the shadows knit the flesh back together in small, almost imperceptible ways.",
+      "The internal organs are cold to the touch, much colder than they should be, as if the shadows have drained all warmth from them.",
+      "You find traces of the shadowy substance in the brain, suggesting it played a role in controlling the creature.",
+      "The shadow-infused tissues seem more resilient than normal, resisting your scalpel with a surprising toughness.",
+      "As you finish your work, the shadows seem to cling to you, leaving a persistent chill in the air around you.",
+      "You can't shake the feeling that the shadows are watching you, an unsettling presence that lingers long after the dissection is complete."
     ]
   },
   {
@@ -278,7 +522,21 @@
       "The lingering shadows surrounding it make your work quite a lot harder as they seem to deliberately grow more opaque around your tool as if they wished to hide the monster's secrets.",
       "You spot a few pores still weakly sputtering thin puffs of black smoke, investigating them further reveals glands full of fuming black liquid linked to the pores with long tubes.",
       "You make one incision and the resulting cloud of black smoke forces you to take a short break as it becomes impossible to see anything.",
-      "Despite it not being very evident from the outside, it seems the entire digestive tract of the abomination was bloated with its obscuring smoke."
+      "Despite it not being very evident from the outside, it seems the entire digestive tract of the abomination was bloated with its obscuring smoke.",
+      "The shadows seem to cling to your hands, leaving a cold, oily residue that is difficult to wash off.",
+      "Occasionally, the shadows flicker and shift, almost as if the creature is still alive and trying to protect itself.",
+      "The organs are stained with an inky blackness, making identification nearly impossible.",
+      "Some tissues seem to absorb light, creating unnaturally deep shadows within the body.",
+      "You find small nodules within the muscles that, when broken open, release more of the shadowy smoke.",
+      "The bones have an unusual texture, almost as if they are coated in a thin layer of soot.",
+      "As you delve deeper, you find that the shadowy substance has infiltrated every part of the body, from the skin to the marrow.",
+      "The creature's blood is thick and black, leaving dark streaks on everything it touches.",
+      "Every cut you make seems to close slightly as the shadows knit the flesh back together in small, almost imperceptible ways.",
+      "The internal organs are cold to the touch, much colder than they should be, as if the shadows have drained all warmth from them.",
+      "You find traces of the shadowy substance in the brain, suggesting it played a role in controlling the creature.",
+      "The shadow-infused tissues are more resilient than normal, resisting your scalpel with surprising toughness.",
+      "As you finish your work, the shadows seem to cling to you, leaving a persistent chill in the air around you.",
+      "You can't shake the feeling that the shadows are watching you, an unsettling presence that lingers long after the dissection is complete."
     ]
   },
   {
@@ -292,7 +550,19 @@
       "Upon closer examination, some of the Kevlar isn't Kevlar - its off color and composition suggest it's the creature's flesh reformed to imitate it.",
       "Some strands of the bulletproof material snake deep into the body like roots of an invading organism.",
       "Strong fibers run alongside the muscles in a way that you want to compare to marbling.",
-      "Under the skin, crushing against the ribcage, you find a thick growth of flesh and Kevlar formed from a mutated diaphragm."
+      "Under the skin, crushing against the ribcage, you find a thick growth of flesh and Kevlar formed from a mutated diaphragm.",
+      "The creature's skin is tough and interwoven with the synthetic fibers, making it difficult to cut through.",
+      "You find small, hardened nodules where the Kevlar fibers converge, almost like strange, artificial bones.",
+      "The Kevlar-infused flesh seems to pulse faintly, as if still alive and reacting to your touch.",
+      "Some areas of the body have a patchwork appearance, with segments of Kevlar mesh replacing large portions of skin and muscle.",
+      "The integration of Kevlar and flesh is so thorough that removing one without damaging the other is nearly impossible.",
+      "Certain muscles appear to have grown around the Kevlar fibers, enhancing their strength and resilience.",
+      "The Kevlar strands are most concentrated around vital organs, forming a protective web that is difficult to penetrate.",
+      "As you cut deeper, you notice that even the bones have begun to fuse with the synthetic material, creating a hybrid of organic and artificial.",
+      "The Kevlar seems to have its own blood supply, with tiny capillaries running through the fibers, giving it a lifelike appearance.",
+      "You find that some of the Kevlar has hardened into sharp, blade-like structures within the flesh, making dissection dangerous.",
+      "The body's regenerative capabilities appear to be enhanced by the presence of Kevlar, as small cuts and incisions close quickly.",
+      "The symbiotic relationship between the creature's flesh and the Kevlar suggests a deliberate and adaptive mutation designed for survival."
     ]
   },
   {
@@ -309,7 +579,18 @@
       "Your search for the source of the creature's size has you discover a cluster of glandular organs deep in the body, most of which you are unable to identify.",
       "It seems most of the creature was grown as some sort of suit looking as if it was piloted by the still normal sized human corpse found in a fetal position in its torso.",
       "The overall anatomy of this enormous monstrosity leaves you only to wonder how it possibly could achieve the range of motion you witnessed while it was still standing.",
-      "You cut into its abdomen, and discover its utter lack of internal organs, the expected cavity replaced by nothing but more flesh and muscle."
+      "You cut into its abdomen, and discover its utter lack of internal organs, the expected cavity replaced by nothing but more flesh and muscle.",
+      "The creature's bones have a strange texture, almost like a mix between bone and stone, adding to its durability.",
+      "Its skin is thick and leathery, with patches that seem almost impervious to your tools.",
+      "You notice that some of the muscle fibers are intertwined with what appears to be tendrils of a different organic material, adding to their strength.",
+      "The immense hands and feet have additional bone structures, possibly for added support and leverage.",
+      "Its ribcage is reinforced with extra layers of bone, creating a formidable barrier around its chest.",
+      "Embedded in the flesh are small, crystalline formations that seem to add to its overall toughness.",
+      "The creature's cardiovascular system appears to be overdeveloped, with massive arteries and veins supporting its bulk.",
+      "You find that the creature's lungs are vastly oversized, likely to accommodate the oxygen needs of such a large body.",
+      "The brain is surprisingly small for such a large creature, suggesting that most of its actions were driven by instinct rather than intelligence.",
+      "You find evidence of rapid cellular regeneration, explaining how it could sustain such injuries and keep moving.",
+      "The creature's stomach is filled with a dense, fibrous material, possibly a result of its unique diet or digestive process."
     ]
   },
   {
@@ -318,43 +599,102 @@
     "text": [
       "The sheer remaining tension in each of the muscles of its arms and shoulders makes them unwind with a sonorous thwang each time you cut one off the supporting bones.",
       "The tremendous growth of its upper body's muscle mass must have rendered the creature almost incapable of efficiently surveying its surroundings.",
-      "You realize the muscles of the zombie's arms are hollow, their marrow replaced by a thick oily black liquid.  You wonder if the ridiculous muscle mass surrounding them is the other half of a strange hydraulic system.",
+      "You realize the muscles of the zombie's arms are hollow, their marrow replaced by a thick oily black liquid. You wonder if the ridiculous muscle mass surrounding them is the other half of a strange hydraulic system.",
       "You cut into the arms of the creature and realize that instead of what you would expect from what you know of normal human anatomy, its muscles wind around the bones in what looks like a tight spring.",
-      "While you are cutting into it, the creature suddenly moves and grabs one of your limbs.  Despite considerable effort, you are unable to pry open the creature's iron grip and resign yourself to chop off the hand instead."
+      "While you are cutting into it, the creature suddenly moves and grabs one of your limbs. Despite considerable effort, you are unable to pry open the creature's iron grip and resign yourself to chop off the hand instead.",
+      "The arms are surprisingly heavy, dense with muscle and what appears to be bone reinforcement.",
+      "Each finger has multiple joints, giving them an unnatural range of motion and a disturbing flexibility.",
+      "The skin on its hands is thick and calloused, almost like leather, with nails that resemble claws.",
+      "You notice that the creature's wrists have additional muscles and tendons, likely to support its powerful grip.",
+      "Embedded within the forearm muscles are small, hard nodules that could be some form of organic reinforcement.",
+      "The creature's elbow joints are reinforced with extra cartilage, allowing for a stronger and more flexible bend.",
+      "Its shoulder blades are larger than normal, possibly to accommodate the extra muscle mass and provide greater leverage.",
+      "You find that the upper arm bones are unusually thick, suggesting they were adapted to handle the immense strain of the creature's strength.",
+      "The muscles in its back are similarly overdeveloped, with layers of muscle fibers that add to its overall bulk and power.",
+      "The creature's ribcage has expanded to support the massive upper body, with ribs that are almost double the normal size.",
+      "You find evidence of rapid muscle regeneration, indicating that the creature's strength could recover quickly after exertion.",
+      "The hands have an unusual number of sensory nerves, possibly to enhance its grip and tactile feedback.",
+      "Each knuckle is reinforced with what feels like bone spurs, adding to the damage the creature could inflict with a punch.",
+      "The tendons in its hands and arms are incredibly thick and durable, making them resistant to damage.",
+      "You notice that the creature's hands have a slightly different color, hinting at the presence of additional pigments or materials in the skin."
     ]
   },
   {
     "type": "snippet",
     "category": "<zombie_harvest_dog_general>",
     "text": [
-      "Opening its jaw wide, you notice the presence of multiple additional tongues deeper it in its throat.",
+      "Opening its jaw wide, you notice the presence of multiple additional tongues deeper in its throat.",
       "You notice cysts in its fur, you cut into them and alternatively find acrid fluids, flakes of bone or twitching strands of muscle.",
       "The rear of this greying zombified dog shows strange reinforcements, as if a previous pathology was being remediated.",
       "Inside its muzzle you notice strange glands and fibrous growths, almost as if the creature's sense of smell was in the process of being overhauled.",
-      "Lodged into the neck area of the creature and grown over you find a corroded tag reading the following \"Max my best friend forever\"."
+      "Lodged into the neck area of the creature and grown over you find a corroded tag reading the following 'Max my best friend forever'.",
+      "The dog's eyes, though cloudy and lifeless, have an odd reflective quality, almost as if they are adapting to low light.",
+      "The creature's paws are heavily calloused, with the nails grown thick and sharp, resembling claws more than typical dog nails.",
+      "The ribcage appears to have expanded, accommodating what looks like additional or overgrown lungs.",
+      "The creature's tail is stiff and unmoving, the vertebrae fused together with bony growths.",
+      "Its fur is patchy, with areas of exposed skin showing signs of thickened, almost armor-like, texture.",
+      "You find that the dog's ears are unusually stiff, with cartilage growths making them stand permanently upright.",
+      "The creature's stomach is distended, filled with a mix of undigested food and a black, tar-like substance.",
+      "The spine shows signs of significant reinforcement, with additional bony structures supporting the creature's movements.",
+      "Its muscles are tense and knotted, indicating a state of perpetual strain or exertion.",
+      "The dog's heart is larger than normal, with thickened walls suggesting it has been under constant stress.",
+      "Embedded in the gums are small, bone-like growths, adding to the creature's already formidable bite.",
+      "The creature's respiratory system seems to include additional air sacs, allowing it to sustain long periods of activity.",
+      "You notice that the dog's veins are more pronounced, black and thick, pulsing with a slow, viscous flow.",
+      "The tongue, aside from the additional ones, is rough and almost sandpaper-like, suggesting it might have been used as a weapon.",
+      "The creature's brain case is slightly enlarged, with a thickened skull protecting it from damage."
     ]
   },
   {
     "type": "snippet",
     "category": "<zombie_harvest_electric_general>",
     "text": [
-      "You find strange tubular glands across the creature contained alternating layers of two alien tissue types soaked in a black liquid, its smell putrid but saltier than usual for a zombie.",
+      "You find strange tubular glands across the creature containing alternating layers of two alien tissue types soaked in a black liquid, its smell putrid but saltier than usual for a zombie.",
       "Uncomfortable static forces you to ground yourself multiple times during your work.",
       "A roaming insect attracted by the carcass gets fried after landing on an organ glowing a faint blue, making you decide to avoid it with the utmost care.",
       "The creature's heart seems to still be beating, but rather than pumping blood, it strangely reminds you of some sort of biological dynamo.",
       "There are bundles of nerves snaking all throughout the tissues, still channeling small amounts of electricity.",
-      "The blackened veins of the creature seem strangely rigid, and you see faint crackles of electricity course across them."
+      "The blackened veins of the creature seem strangely rigid, and you see faint crackles of electricity course across them.",
+      "As you delve deeper, you notice small, bioluminescent nodes that emit a soft, eerie glow.",
+      "The creature's muscles twitch sporadically, sending small electric shocks up your tools.",
+      "The smell of ozone is faintly present, mixed with the usual decay.",
+      "You come across a network of sinewy cords that resemble wiring, leading to what seems like a central node near the spine.",
+      "The creature's eyes, though lifeless, have a strange reflective quality, almost like polished metal.",
+      "You find clusters of what look like organic capacitors, charged and ready to release energy.",
+      "The creature's fingertips have a charred appearance, with scorch marks running up to the wrists.",
+      "In some areas, the skin is fused with a metallic-looking substance, making incisions more challenging.",
+      "There is a consistent, low hum emanating from the body, barely audible but persistent.",
+      "You notice a peculiar resistance when cutting through certain tissues, as if they are magnetically charged.",
+      "The creature's teeth are slightly elongated and have a metallic sheen, possibly used as conductive points.",
+      "Within the chest cavity, you find what looks like a secondary, smaller heart, possibly serving as a backup power source.",
+      "The brain shows signs of severe mutation, with areas that seem to be bio-engineered for enhanced electrical activity.",
+      "You discover that the spine has been reinforced with a conductive material, aiding in the transmission of electric signals throughout the body."
     ]
   },
   {
     "type": "snippet",
     "category": "<zombie_humanoid_harvest_mushroom_general>",
     "text": [
-      "Despite the carcass lying still, you still notice churning while investigating its entrails, as if whatever was originally animating this corpse is wrestling with the mycelium fibers to retake control.",
+      "Despite the carcass lying still, you notice churning while investigating its entrails, as if whatever was originally animating this corpse is wrestling with the mycelium fibers to retake control.",
       "Under the stomach you notice a wrinkled fruit that you can't help but think somewhat appetizing despite where you found it.",
       "The skin feels absolutely turgid, oozing water mixed in with traces of a black liquid where you make your incisions.",
       "Fungal stalks still sway gently despite the lack of movement of the formerly shambling corpse.",
-      "The putrefied blood that leaks from your incisions is visibly saturated with spores."
+      "The putrefied blood that leaks from your incisions is visibly saturated with spores.",
+      "A network of mycelium threads runs throughout the muscle tissue, giving it a spongy texture.",
+      "The lungs are partially colonized by clusters of small, pale mushrooms, releasing spores with each breath you take.",
+      "A pungent, earthy smell emanates from the body, overpowering the usual scent of decay.",
+      "Some organs have been entirely replaced by large fungal growths, their original functions lost to the parasitic invasion.",
+      "The brain is overrun with fungal tendrils, pulsing slightly as if trying to maintain some semblance of life.",
+      "You find a bizarre hybrid of human tissue and fungal growth in the liver, the two seemingly integrated into a single organ.",
+      "The eyes are clouded over with a white fungal film, rendering them entirely non-functional.",
+      "Every cut you make releases a small cloud of spores, making you question the safety of continuing without better protection.",
+      "The intestines are lined with a thick layer of mycelium, absorbing nutrients directly from the decomposing matter.",
+      "You notice tiny mushrooms sprouting from the ear canals, suggesting the fungus had taken over its senses.",
+      "The spine is covered in a soft, moss-like growth, providing a strange cushioning effect.",
+      "Some of the bones have become brittle and porous, filled with tiny fungal filaments.",
+      "In the heart, you find what looks like a fungal fruiting body, pulsating weakly as if still alive.",
+      "The tongue is swollen and covered in a thin layer of white fuzz, making it unrecognizable.",
+      "The creature's fingernails are discolored and brittle, with fungal growths protruding from underneath."
     ]
   },
   {
@@ -365,7 +705,23 @@
       "Under the stomach you notice a wrinkled fruit that you can't help but think somewhat appetizing despite where you found it.",
       "The skin feels absolutely turgid, oozing water mixed in with traces of a black liquid where you make your incisions.",
       "Fungal stalks still sway gently despite the lack of movement of the formerly shambling corpse.",
-      "The putrefied blood that leaks from your incisions is visibly saturated with spores."
+      "The putrefied blood that leaks from your incisions is visibly saturated with spores.",
+      "A thick layer of mycelium coats the inner lining of the animal's muscles, making them appear unusually pale and spongy.",
+      "Clusters of small, bioluminescent mushrooms have taken root around the creature's eyes, casting an eerie glow.",
+      "The fur is matted and tangled with tiny fungal sprouts, giving it a rough, uneven texture.",
+      "The digestive tract has transformed into a labyrinth of fungal growths, rendering its original function obsolete.",
+      "The animal's claws are brittle and covered in a thin layer of mold, easily breaking upon touch.",
+      "A sour, earthy odor permeates from the body, overpowering the usual scent of decay.",
+      "The tongue is swollen, dotted with tiny mushrooms that seem to be feeding off the decaying flesh.",
+      "The brain is a tangled mess of fungal roots, pulsating slightly as if attempting to animate the lifeless body.",
+      "The eyes are clouded over with a white fungal film, rendering them completely useless.",
+      "You find clusters of mushrooms growing inside the lungs, releasing spores with every movement.",
+      "The heart is overgrown with a thick, fibrous mass of mycelium, barely recognizable as an organ.",
+      "The ears are filled with a dense network of fungal threads, effectively blocking any sound.",
+      "You notice a strange, slimy residue on the fur, likely secreted by the fungal infection.",
+      "The bones are brittle and porous, filled with tiny fungal filaments that have weakened their structure.",
+      "The intestines are lined with a thick layer of mycelium, absorbing nutrients directly from the decomposing matter.",
+      "Some of the teeth have fallen out, replaced by small fungal growths that seem to be rooted in the gums."
     ]
   },
   {
@@ -376,7 +732,22 @@
       "The corpse is inundated with smaller forms, increasing in complexity and size as you near its central cavity where they wait for their release in neat clusters.",
       "The inside of this carcass resembles more an industrial production line than anything vaguely natural.",
       "You find several unfinished creatures inside the main cavity, you have a vague feeling something greater discarded them, founding them wanting.",
-      "You are almost certain this zombie was pregnant before its undeath, the fetus within the womb having been twisted into the abomination it was carrying."
+      "You are almost certain this zombie was pregnant before its undeath, the fetus within the womb having been twisted into the abomination it was carrying.",
+      "Clusters of pupae are embedded in the creature's muscles, each encased in a translucent, sticky cocoon.",
+      "The lining of the stomach has transformed into a nest-like structure, filled with twitching larval forms.",
+      "The spinal cord is wrapped in a thick, writhing mass of larvae, slowly feeding off the decaying tissues.",
+      "You notice strange, segmented creatures burrowing through the fat layers, leaving trails of slime behind them.",
+      "The heart is surrounded by a protective shell of hardened chitin, housing several developing insects.",
+      "Tiny mandibles protrude from beneath the skin, indicating the presence of hidden parasites ready to emerge.",
+      "The air around the carcass is filled with a faint buzzing, as if the pupating creatures are communicating.",
+      "The brain cavity is occupied by a single large pupa, pulsating slowly as it matures.",
+      "The lungs are deflated and hollow, serving as incubators for dozens of tiny winged creatures.",
+      "Each major organ seems to be infested with its own specific type of parasitic larvae.",
+      "The blood has a gelatinous consistency, filled with minuscule eggs ready to hatch.",
+      "The intestines are a maze of tunnels created by the burrowing creatures, disrupting their original function.",
+      "You find a cluster of newly emerged insects near the liver, their exoskeletons still soft and pale.",
+      "The skin is dotted with small, breathing holes, allowing the larvae to get the air they need to grow.",
+      "A strange symbiotic relationship seems to exist between the host and the parasites, with the latter keeping the former alive just enough to sustain their development."
     ]
   },
   {

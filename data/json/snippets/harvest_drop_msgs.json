@@ -1,12 +1,346 @@
 [
+{
+  "type": "snippet",
+  "//": "Displayed after unsuccessfully field dressing a corpse (from butchery menu)",
+  "category": "harvest_drop_default_field_dress_failed",
+  "text": [
+    "You unskillfully hack up the corpse and chop off some excess body parts. You're left wondering how you did so poorly.",
+    "Your unskilled hands slip and damage the corpse. You still hope it's not a total waste though.",
+    "You did something wrong and hacked the corpse badly. Maybe it's still recoverable.",
+    "In your inexperience, you manage to spill the entrails everywhere, rendering most of the meat unusable.",
+    "Your clumsy attempt ends with more of the corpse on the ground than on the table. It looks like a complete mess.",
+    "Your rough handling results in puncturing the stomach, releasing a putrid stench that makes you gag and ruins the meat.",
+    "You accidentally cut into the wrong spot, causing a gush of blood that obscures your vision and ruins the meat.",
+    "Your tools slip from your grasp, mangling the corpse beyond recognition. It's a gruesome and unproductive endeavor.",
+    "You misjudge your cuts, slicing through bone and cartilage indiscriminately, leaving a mutilated carcass behind.",
+    "Your efforts are so haphazard that you end up with a pile of unrecognizable flesh and bone, useless for any purpose.",
+    "Despite your best intentions, the corpse ends up looking like it was attacked by wild animals rather than dressed by a human.",
+    "Your inexperience leads to severing major arteries, causing a mess that ruins the rest of the carcass.",
+    "You fail to properly drain the blood, leaving the meat contaminated and unsafe to consume.",
+    "You apply too much force, crushing delicate bones and destroying valuable parts of the body.",
+    "You nick the bladder, causing a foul-smelling mess that ruins your work area and the corpse.",
+    "Your cuts are erratic and uneven, leaving the carcass looking like a butcher's worst nightmare.",
+    "You lose control of your knife, causing deep gouges that make the meat unusable.",
+    "Your attempt at field dressing is so poor that the corpse looks more like a scene from a horror movie than a butchered animal.",
+    "You slice into a boil or abscess, contaminating the meat and making it unfit for any use.",
+    "Your hasty work results in severing tendons and ligaments, rendering the limbs useless."
+  ]
+},
+
+{
+  "type": "snippet",
+  "//": "Displayed after successfully field dressing a corpse (from butchery menu)",
+  "category": "harvest_drop_default_field_dress_success",
+  "text": [
+    "You field dress the corpse.",
+    "You slice the corpse's belly and remove intestines and organs, until you're confident that it will not rot from inside.",
+    "You remove guts and excess parts, preparing the corpse for later use.",
+    "Your skillful hands make quick work of the field dressing, leaving the carcass clean and ready for further processing.",
+    "You efficiently remove the internal organs, ensuring the meat will be preserved for longer.",
+    "With practiced precision, you field dress the corpse, minimizing waste and contamination.",
+    "You expertly extract the entrails, leaving a neatly dressed carcass behind.",
+    "Your steady hands and sharp tools make quick work of the field dressing, leaving the meat in perfect condition.",
+    "You work methodically, removing all the unnecessary parts and leaving the carcass ready for use.",
+    "The field dressing goes smoothly, and you manage to keep the carcass clean and intact.",
+    "You swiftly and efficiently field dress the corpse, leaving no mess behind.",
+    "Your experience shows as you expertly field dress the corpse, preserving the quality of the meat.",
+    "You make precise cuts, removing the organs and intestines with minimal waste.",
+    "You successfully field dress the corpse, ensuring it is properly prepared for further butchery.",
+    "Your deft hands make quick work of the field dressing, leaving the carcass in excellent condition.",
+    "You remove the internal organs cleanly, leaving the carcass ready for the next steps.",
+    "You skillfully field dress the corpse, preparing it for later processing with minimal waste.",
+    "You efficiently remove the guts and other excess parts, ensuring the carcass is properly dressed.",
+    "Your careful work pays off as you successfully field dress the corpse, keeping the meat clean and intact.",
+    "You expertly handle the field dressing, leaving a neatly prepared carcass behind."
+  ]
+},
+
+{
+  "type": "snippet",
+  "//": "Displayed after successfully dissecting a corpse (from butchery menu)",
+  "category": "harvest_drop_default_dissect_success",
+  "text": [
+    "You finish dissecting the corpse.",
+    "You carefully document your findings as you finish the dissection.",
+    "The dissection is complete, and you've gathered all the data you need.",
+    "You make the final incision and complete the dissection, satisfied with your meticulous work.",
+    "You skillfully finish the dissection, ensuring all relevant organs and tissues are examined.",
+    "With precision and care, you conclude the dissection, having learned much from the process.",
+    "You complete the dissection, making note of any abnormalities or unique findings.",
+    "Your careful work pays off as you finish dissecting the corpse, gaining valuable insights.",
+    "The dissection is thorough and complete, providing you with a wealth of information.",
+    "You conclude the dissection, having successfully examined every part of the corpse."
+  ]
+},
+
+{
+  "type": "snippet",
+  "//": "Displayed after unsuccessfully dissecting a corpse (from butchery menu)",
+  "category": "harvest_drop_default_dissect_failed",
+  "text": [
+    "You hack up the corpse so unskillfully, that there is nothing left to salvage from this bloody mess.",
+    "You wanted to cut the corpse, but instead you hacked the meat, spilled the guts all over it, and made a bloody mess.",
+    "You made so many mistakes during the process that you doubt even vultures will be interested in what's left of it.",
+    "Your clumsy attempts at dissection ruin the corpse, turning it into an unrecognizable mess.",
+    "You fumble through the dissection, making a disastrous mess that leaves nothing usable.",
+    "Your lack of skill is painfully evident as you butcher the dissection, rendering the corpse useless.",
+    "In your unskilled hands, the dissection goes horribly wrong, leaving a chaotic mess behind.",
+    "You botch the dissection so badly that the corpse is now a pile of shredded meat and organs.",
+    "Your inexperience leads to a disastrous dissection, leaving the corpse in a state of utter disarray.",
+    "The dissection is a complete failure, with the corpse now a mangled heap of flesh and bone."
+  ]
+},
+
+{
+  "type": "snippet",
+  "//": "Displayed after skinning a corpse (from butchery menu)",
+  "category": "harvest_drop_default_skinning",
+  "text": [
+    "You skin the corpse.",
+    "You carefully remove the hide from the corpse.",
+    "The corpse is challenging to skin, but you get a good hide from it.",
+    "With a few deft slices, you take the skin from the corpse.",
+    "You skillfully separate the hide from the flesh, preserving it well.",
+    "You manage to peel the skin off cleanly, leaving the carcass exposed.",
+    "You strip the skin away, ensuring it's intact and usable.",
+    "You expertly work the blade to free the hide from the underlying tissue.",
+    "The skin comes away smoothly under your practiced hands.",
+    "You efficiently remove the skin, leaving a bare and ready carcass."
+  ]
+},
+
+{
+  "type": "snippet",
+  "//": "Displayed after dismembering a corpse (from butchery menu)",
+  "category": "harvest_drop_default_dismember",
+  "text": [
+    "You hack the corpse apart.",
+    "You lop the limbs off the corpse.",
+    "You cleave the corpse into pieces.",
+    "You dismember the body, separating each limb with forceful cuts.",
+    "With a few powerful swings, you sever the arms and legs from the torso.",
+    "You break the body down into manageable parts, cutting through bone and muscle.",
+    "The limbs come away under the force of your blows, leaving the torso dismembered.",
+    "You chop the corpse into smaller sections, working methodically.",
+    "You slice through joints and ligaments, dismembering the body with precision.",
+    "You separate the head from the body, then work on the limbs.",
+    "You cut the body apart, leaving a pile of dismembered parts.",
+    "With swift, decisive strokes, you dismember the corpse.",
+    "You hack the corpse into pieces, reducing it to a collection of limbs and torso.",
+    "You make quick work of the dismemberment, separating each limb from the body.",
+    "You dismantle the corpse, cutting through flesh and bone.",
+    "You split the body into sections, working methodically to dismember it.",
+    "You remove the limbs one by one, leaving a headless, limbless torso.",
+    "You cut through the joints, dismembering the corpse with efficient strokes.",
+    "You chop the corpse into parts, severing each limb with precision.",
+    "You reduce the body to a pile of dismembered pieces, each cut clean and deliberate.",
+    "With brutal efficiency, you hack the corpse into smaller sections.",
+    "You slice through the corpse, separating each limb with practiced ease.",
+    "You break the body down, dismembering it thoroughly.",
+    "You dismember the corpse, leaving behind a collection of severed limbs and head.",
+    "You cut through tendons and bone, dismembering the body with skill.",
+    "You cleave the body into parts, separating each limb with controlled swings.",
+    "You sever the limbs from the body, dismembering it completely.",
+    "With powerful strikes, you dismember the corpse, leaving it in pieces.",
+    "You chop through the body, dismembering it with precision and force.",
+    "You work methodically, cutting through flesh and bone to dismember the corpse.",
+    "You hack the limbs off, leaving a dismembered body in your wake.",
+    "You separate the arms and legs from the torso, dismembering the body."
+  ]
+},
+
+{
+  "type": "snippet",
+  "//": "Displayed after performing a quick butcher on a corpse (from butchery menu)",
+  "category": "harvest_drop_default_quick_butcher",
+  "text": [
+    "You apply a few quick cuts to the corpse and leave what's left of it for scavengers.",
+    "With rapid and rough slices, you take what you need and abandon the rest.",
+    "You quickly hack away at the body, taking the easiest cuts and leaving the rest.",
+    "You perform a hasty butchery, removing the choice parts and discarding the rest.",
+    "In your hurry, you butcher the corpse quickly, leaving most of it untouched.",
+    "You slash at the corpse with quick, imprecise cuts, taking only what you need.",
+    "Your rapid butchery leaves behind a mangled carcass for scavengers.",
+    "You hurriedly carve out some meat, leaving the rest of the body behind.",
+    "You quickly slice off the most accessible parts, leaving a dismembered carcass.",
+    "In your haste, you butcher the corpse roughly, leaving much of it for scavengers.",
+    "You make a few rapid cuts, taking what you need and abandoning the rest.",
+    "You perform a quick and dirty butchery, removing some meat and discarding the rest.",
+    "Your hasty cuts leave the corpse largely intact, with only a few pieces removed.",
+    "You swiftly butcher the corpse, leaving the bulk of it for scavengers.",
+    "You slice off a few pieces with quick, efficient cuts and leave the rest.",
+    "In your rush, you hack away at the corpse, taking what you can and leaving the rest.",
+    "You butcher the body quickly, taking a few select cuts and abandoning the rest.",
+    "You make a few rapid incisions, removing the easiest parts and leaving the rest.",
+    "Your quick butchery leaves behind a carcass that scavengers will soon find.",
+    "You hastily carve out some meat, leaving the rest for scavengers to pick over."
+  ]
+},
+
+{
+  "type": "snippet",
+  "//": "Displayed after performing a full butcher on a corpse (from butchery menu)",
+  "category": "harvest_drop_default_full_butcher",
+  "text": [
+    "You finish butchering the corpse.",
+    "After a thorough process, you complete the butchery of the corpse.",
+    "You meticulously butcher the corpse, separating each part with precision.",
+    "Your careful and detailed work pays off as you finish butchering the corpse.",
+    "You take your time and expertly butcher the entire corpse.",
+    "With skillful cuts, you fully butcher the corpse, ensuring nothing goes to waste.",
+    "You complete the butchery, neatly separating all usable parts from the corpse.",
+    "After a detailed and careful process, the corpse is fully butchered.",
+    "You methodically break down the corpse, finishing the butchery with precision.",
+    "Your expertise shows as you efficiently butcher the entire corpse.",
+    "You finish the full butchery, leaving nothing of value behind.",
+    "With steady hands, you complete the butchery, preparing the corpse for use.",
+    "You skillfully butcher the corpse, ensuring every usable part is harvested.",
+    "The butchery is complete, and you have expertly harvested all parts of the corpse.",
+    "You take your time and carefully butcher the entire corpse, leaving no waste.",
+    "After a thorough and precise process, you finish butchering the corpse.",
+    "You expertly separate all parts of the corpse, completing the butchery.",
+    "The corpse is fully butchered with precision and care.",
+    "You finish the detailed butchery, harvesting every usable part from the corpse.",
+    "With expertise and care, you complete the butchery of the entire corpse."
+  ]
+},
+
+ {
+  "type": "snippet",
+  "//": "Displayed after bleeding a corpse (from butchery menu)",
+  "category": "harvest_drop_default_bleed",
+  "text": [
+    "You bleed the corpse.",
+    "With a steady hand, you drain the blood from the corpse.",
+    "You carefully bleed the corpse, ensuring all excess blood is removed.",
+    "The corpse is efficiently bled, leaving it ready for further processing.",
+    "You perform the bleeding process with precision, draining the corpse of blood.",
+    "After bleeding the corpse, you are left with a clean and drained carcass.",
+    "You complete the bleeding process, removing excess blood from the corpse.",
+    "With skillful technique, you bleed the corpse thoroughly.",
+    "The corpse is successfully bled, preparing it for the next stage of processing.",
+    "You expertly bleed the corpse, leaving it ready for further butchery.",
+    "With practiced hands, you drain the blood from the corpse.",
+    "The bleeding process is complete, and the corpse is now ready for further preparation.",
+    "You efficiently bleed the corpse, ensuring it is properly drained.",
+    "After bleeding the corpse, you are left with a clean and sanitized carcass.",
+    "With careful attention to detail, you bleed the corpse completely.",
+    "The corpse is drained of blood, ready to be processed further.",
+    "You successfully bleed the corpse, removing all excess blood.",
+    "With precision, you drain the blood from the corpse, leaving it ready for use.",
+    "You complete the bleeding process, ensuring the corpse is thoroughly drained.",
+    "After bleeding, the corpse is left clean and ready for further processing."
+  ]
+},
+
+{
+  "type": "snippet",
+  "category": "harvest_drop_mutagen_field_dress",
+  "text": [
+    "You notice some strange organs, perhaps harvestable via careful dissection.",
+    "Upon closer inspection, you identify unusual organs that may yield valuable mutagenic materials.",
+    "Your keen eye spots peculiar organs that could be valuable for mutagenic experimentation with careful extraction.",
+    "Amidst the remains, you find organs exhibiting abnormal characteristics, possibly containing mutagenic properties.",
+    "You detect anomalous organs within the corpse, suggesting potential for extracting mutagenic substances.",
+    "The corpse reveals unusual organs that pique your interest for their potential mutagenic properties.",
+    "Upon examination, you discern peculiar organs that hold promise for mutagen extraction.",
+    "You uncover organs with distinct features, hinting at their potential mutagenic utility upon extraction.",
+    "As you survey the remains, you identify organs that appear ripe for harvesting mutagenic materials.",
+    "Your investigation reveals organs with unique properties, indicating potential mutagenic value."
+  ]
+},
+
+{
+  "type": "snippet",
+  "category": "harvest_drop_bionic_field_dress",
+  "text": [
+    "You suspect there might be bionics implanted in this corpse, that careful dissection might reveal.",
+    "Your intuition suggests the presence of hidden bionics within the corpse, awaiting discovery through meticulous dissection.",
+    "A hunch tells you there could be concealed bionic implants within the corpse, awaiting identification through careful dissection.",
+    "You have a suspicion that this corpse may harbor hidden bionic enhancements, accessible through precise dissection.",
+    "A careful examination leads you to believe that bionic augmentations may be concealed within the corpse, awaiting identification during dissection.",
+    "You discern subtle indicators hinting at the presence of bionic implants within the corpse, prompting further investigation through dissection.",
+    "Amidst the remains, you detect subtle clues suggesting the presence of bionic enhancements, enticing you to explore further through dissection.",
+    "Your scrutiny reveals subtle anomalies that suggest the presence of bionic enhancements within the corpse, motivating you to conduct a thorough dissection.",
+    "There are signs pointing to the possibility of hidden bionic implants within the corpse, encouraging you to conduct a detailed dissection.",
+    "You observe subtle anomalies that hint at the presence of bionic implants within the corpse, prompting you to proceed with a cautious dissection."
+  ]
+},
+
+{
+  "type": "snippet",
+  "category": "harvest_drop_mutagen_butcher",
+  "text": [
+    "Your butchering tool destroys a strange organ. Perhaps a more surgical approach would allow harvesting it.",
+    "During butchery, a peculiar organ is inadvertently damaged by your tool. A more precise method may be necessary to salvage it.",
+    "As you butcher the corpse, you unintentionally damage a peculiar organ with your tool. Employing a more delicate approach could facilitate its retrieval.",
+    "The butchering process causes irreversible damage to an unusual organ. To salvage it, a more refined technique may be required.",
+    "A unique organ is accidentally damaged during the butchering process. Employing a more surgical method could preserve it for harvesting.",
+    "Your butchering tool inadvertently damages an unusual organ. Consideration of a more controlled approach may be prudent to recover it intact.",
+    "As you butcher the corpse, a peculiar organ is inadvertently destroyed by your tool. A more careful technique may be necessary to preserve it.",
+    "During butchery, your tool inadvertently damages a strange organ. An alternative, more precise method may be necessary to extract it intact.",
+    "The butchering process results in the inadvertent destruction of a unique organ. Implementing a more meticulous approach may facilitate its extraction.",
+    "An unfamiliar organ is damaged during butchery. Employing a more meticulous technique may enable its salvage."
+  ]
+},
+
+{
+  "type": "snippet",
+  "category": "harvest_drop_bionic_butcher",
+  "text": [
+    "Your butchering tool encounters something implanted in this corpse, but your rough cuts destroy it.",
+    "During butchery, your tool encounters implanted bionics, but its rough handling results in their destruction.",
+    "Traces of implants are discovered in the body during butchery, but your focus remains solely on the flesh.",
+    "While butchering, you come across some bionics in the body, but their harvesting would necessitate a more surgical approach.",
+    "Implants are detected in the body during butchery, but your disregard for precision leads to their destruction.",
+    "As you butcher the corpse, you encounter traces of implants, but you prioritize flesh over technology.",
+    "Your butchering process uncovers bionics in the body, but their removal would require a more delicate procedure."
+  ]
+},
+
+{
+  "type": "snippet",
+  "category": "harvest_drop_mutagen_dissect_failed",
+  "text": [
+    "Your dissection reveals only damaged organs, rendering them unsuitable for harvest.",
+    "Upon dissection, you find only damaged organs, unfit for harvesting.",
+    "Despite your efforts, your dissection yields only damaged organs, rendering them useless for further study.",
+    "The organs you uncover during dissection are found to be damaged, providing no viable material for harvest.",
+    "Your attempt at dissection reveals only damaged organs, leaving nothing of value to harvest.",
+    "During dissection, you find only organs that have been damaged beyond use, providing no useful material for harvest."
+  ]
+},
+
+{
+  "type": "snippet",
+  "category": "harvest_drop_tissue_dissect_failed",
+  "text": [
+    "Your dissection yields little beyond damaged tissue, unfit for fu[
   {
     "type": "snippet",
     "//": "Displayed after unsuccessfully field dressing a corpse (from butchery menu)",
     "category": "harvest_drop_default_field_dress_failed",
     "text": [
-      "You unskillfully hack up the corpse and chop off some excess body parts.  You're left wondering how you did so poorly.",
-      "Your unskilled hands slip and damage the corpse.  You still hope it's not a total waste though.",
-      "You did something wrong and hacked the corpse badly.  Maybe it's still recoverable."
+      "You unskillfully hack up the corpse and chop off some excess body parts. You're left wondering how you did so poorly.",
+      "Your unskilled hands slip and damage the corpse. You still hope it's not a total waste though.",
+      "You did something wrong and hacked the corpse badly. Maybe it's still recoverable.",
+      "In your inexperience, you manage to spill the entrails everywhere, rendering most of the meat unusable.",
+      "Your clumsy attempt ends with more of the corpse on the ground than on the table. It looks like a complete mess.",
+      "Your rough handling results in puncturing the stomach, releasing a putrid stench that makes you gag and ruins the meat.",
+      "You accidentally cut into the wrong spot, causing a gush of blood that obscures your vision and ruins the meat.",
+      "Your tools slip from your grasp, mangling the corpse beyond recognition. It's a gruesome and unproductive endeavor.",
+      "You misjudge your cuts, slicing through bone and cartilage indiscriminately, leaving a mutilated carcass behind.",
+      "Your efforts are so haphazard that you end up with a pile of unrecognizable flesh and bone, useless for any purpose.",
+      "Despite your best intentions, the corpse ends up looking like it was attacked by wild animals rather than dressed by a human.",
+      "Your inexperience leads to severing major arteries, causing a mess that ruins the rest of the carcass.",
+      "You fail to properly drain the blood, leaving the meat contaminated and unsafe to consume.",
+      "You apply too much force, crushing delicate bones and destroying valuable parts of the body.",
+      "You nick the bladder, causing a foul-smelling mess that ruins your work area and the corpse.",
+      "Your cuts are erratic and uneven, leaving the carcass looking like a butcher's worst nightmare.",
+      "You lose control of your knife, causing deep gouges that make the meat unusable.",
+      "Your attempt at field dressing is so poor that the corpse looks more like a scene from a horror movie than a butchered animal.",
+      "You slice into a boil or abscess, contaminating the meat and making it unfit for any use.",
+      "Your hasty work results in severing tendons and ligaments, rendering the limbs useless."
     ]
   },
   {
@@ -16,14 +350,42 @@
     "text": [
       "You field dress the corpse.",
       "You slice the corpse's belly and remove intestines and organs, until you're confident that it will not rot from inside.",
-      "You remove guts and excess parts, preparing the corpse for later use."
+      "You remove guts and excess parts, preparing the corpse for later use.",
+      "Your skillful hands make quick work of the field dressing, leaving the carcass clean and ready for further processing.",
+      "You efficiently remove the internal organs, ensuring the meat will be preserved for longer.",
+      "With practiced precision, you field dress the corpse, minimizing waste and contamination.",
+      "You expertly extract the entrails, leaving a neatly dressed carcass behind.",
+      "Your steady hands and sharp tools make quick work of the field dressing, leaving the meat in perfect condition.",
+      "You work methodically, removing all the unnecessary parts and leaving the carcass ready for use.",
+      "The field dressing goes smoothly, and you manage to keep the carcass clean and intact.",
+      "You swiftly and efficiently field dress the corpse, leaving no mess behind.",
+      "Your experience shows as you expertly field dress the corpse, preserving the quality of the meat.",
+      "You make precise cuts, removing the organs and intestines with minimal waste.",
+      "You successfully field dress the corpse, ensuring it is properly prepared for further butchery.",
+      "Your deft hands make quick work of the field dressing, leaving the carcass in excellent condition.",
+      "You remove the internal organs cleanly, leaving the carcass ready for the next steps.",
+      "You skillfully field dress the corpse, preparing it for later processing with minimal waste.",
+      "You efficiently remove the guts and other excess parts, ensuring the carcass is properly dressed.",
+      "Your careful work pays off as you successfully field dress the corpse, keeping the meat clean and intact.",
+      "You expertly handle the field dressing, leaving a neatly prepared carcass behind."
     ]
   },
   {
     "type": "snippet",
     "//": "Displayed after successfully dissecting a corpse (from butchery menu)",
     "category": "harvest_drop_default_dissect_success",
-    "text": [ "You finish dissecting the corpse." ]
+    "text": [
+      "You finish dissecting the corpse.",
+      "You carefully document your findings as you finish the dissection.",
+      "The dissection is complete, and you've gathered all the data you need.",
+      "You make the final incision and complete the dissection, satisfied with your meticulous work.",
+      "You skillfully finish the dissection, ensuring all relevant organs and tissues are examined.",
+      "With precision and care, you conclude the dissection, having learned much from the process.",
+      "You complete the dissection, making note of any abnormalities or unique findings.",
+      "Your careful work pays off as you finish dissecting the corpse, gaining valuable insights.",
+      "The dissection is thorough and complete, providing you with a wealth of information.",
+      "You conclude the dissection, having successfully examined every part of the corpse."
+    ]
   },
   {
     "type": "snippet",
@@ -32,7 +394,14 @@
     "text": [
       "You hack up the corpse so unskillfully, that there is nothing left to salvage from this bloody mess.",
       "You wanted to cut the corpse, but instead you hacked the meat, spilled the guts all over it, and made a bloody mess.",
-      "You made so many mistakes during the process that you doubt even vultures will be interested in what's left of it."
+      "You made so many mistakes during the process that you doubt even vultures will be interested in what's left of it.",
+      "Your clumsy attempts at dissection ruin the corpse, turning it into an unrecognizable mess.",
+      "You fumble through the dissection, making a disastrous mess that leaves nothing usable.",
+      "Your lack of skill is painfully evident as you butcher the dissection, rendering the corpse useless.",
+      "In your unskilled hands, the dissection goes horribly wrong, leaving a chaotic mess behind.",
+      "You botch the dissection so badly that the corpse is now a pile of shredded meat and organs.",
+      "Your inexperience leads to a disastrous dissection, leaving the corpse in a state of utter disarray.",
+      "The dissection is a complete failure, with the corpse now a mangled heap of flesh and bone."
     ]
   },
   {
@@ -43,70 +412,252 @@
       "You skin the corpse.",
       "You carefully remove the hide from the corpse.",
       "The corpse is challenging to skin, but you get a good hide from it.",
-      "With a few deft slices you take the skin from the corpse."
+      "With a few deft slices, you take the skin from the corpse.",
+      "You skillfully separate the hide from the flesh, preserving it well.",
+      "You manage to peel the skin off cleanly, leaving the carcass exposed.",
+      "You strip the skin away, ensuring it's intact and usable.",
+      "You expertly work the blade to free the hide from the underlying tissue.",
+      "The skin comes away smoothly under your practiced hands.",
+      "You efficiently remove the skin, leaving a bare and ready carcass."
     ]
   },
   {
     "type": "snippet",
     "//": "Displayed after dismembering a corpse (from butchery menu)",
     "category": "harvest_drop_default_dismember",
-    "text": [ "You hack the corpse apart.", "You lop the limbs off the corpse.", "You cleave the corpse into pieces." ]
+    "text": [
+      "You hack the corpse apart.",
+      "You lop the limbs off the corpse.",
+      "You cleave the corpse into pieces.",
+      "You dismember the body, separating each limb with forceful cuts.",
+      "With a few powerful swings, you sever the arms and legs from the torso.",
+      "You break the body down into manageable parts, cutting through bone and muscle.",
+      "The limbs come away under the force of your blows, leaving the torso dismembered.",
+      "You chop the corpse into smaller sections, working methodically.",
+      "You slice through joints and ligaments, dismembering the body with precision.",
+      "You separate the head from the body, then work on the limbs.",
+      "You cut the body apart, leaving a pile of dismembered parts.",
+      "With swift, decisive strokes, you dismember the corpse.",
+      "You hack the corpse into pieces, reducing it to a collection of limbs and torso.",
+      "You make quick work of the dismemberment, separating each limb from the body.",
+      "You dismantle the corpse, cutting through flesh and bone.",
+      "You split the body into sections, working methodically to dismember it.",
+      "You remove the limbs one by one, leaving a headless, limbless torso.",
+      "You cut through the joints, dismembering the corpse with efficient strokes.",
+      "You chop the corpse into parts, severing each limb with precision.",
+      "You reduce the body to a pile of dismembered pieces, each cut clean and deliberate.",
+      "With brutal efficiency, you hack the corpse into smaller sections.",
+      "You slice through the corpse, separating each limb with practiced ease.",
+      "You break the body down, dismembering it thoroughly.",
+      "You dismember the corpse, leaving behind a collection of severed limbs and head.",
+      "You cut through tendons and bone, dismembering the body with skill.",
+      "You cleave the body into parts, separating each limb with controlled swings.",
+      "You sever the limbs from the body, dismembering it completely.",
+      "With powerful strikes, you dismember the corpse, leaving it in pieces.",
+      "You chop through the body, dismembering it with precision and force.",
+      "You work methodically, cutting through flesh and bone to dismember the corpse.",
+      "You hack the limbs off, leaving a dismembered body in your wake.",
+      "You separate the arms and legs from the torso, dismembering the body."
+    ]
   },
   {
     "type": "snippet",
     "//": "Displayed after performing a quick butcher on a corpse (from butchery menu)",
     "category": "harvest_drop_default_quick_butcher",
-    "text": [ "You apply few quick cuts to the corpse and leave what's left of it for scavengers." ]
+    "text": [
+      "You apply a few quick cuts to the corpse and leave what's left of it for scavengers.",
+      "With rapid and rough slices, you take what you need and abandon the rest.",
+      "You quickly hack away at the body, taking the easiest cuts and leaving the rest.",
+      "You perform a hasty butchery, removing the choice parts and discarding the rest.",
+      "In your hurry, you butcher the corpse quickly, leaving most of it untouched.",
+      "You slash at the corpse with quick, imprecise cuts, taking only what you need.",
+      "Your rapid butchery leaves behind a mangled carcass for scavengers.",
+      "You hurriedly carve out some meat, leaving the rest of the body behind.",
+      "You quickly slice off the most accessible parts, leaving a dismembered carcass.",
+      "In your haste, you butcher the corpse roughly, leaving much of it for scavengers.",
+      "You make a few rapid cuts, taking what you need and abandoning the rest.",
+      "You perform a quick and dirty butchery, removing some meat and discarding the rest.",
+      "Your hasty cuts leave the corpse largely intact, with only a few pieces removed.",
+      "You swiftly butcher the corpse, leaving the bulk of it for scavengers.",
+      "You slice off a few pieces with quick, efficient cuts and leave the rest.",
+      "In your rush, you hack away at the corpse, taking what you can and leaving the rest.",
+      "You butcher the body quickly, taking a few select cuts and abandoning the rest.",
+      "You make a few rapid incisions, removing the easiest parts and leaving the rest.",
+      "Your quick butchery leaves behind a carcass that scavengers will soon find.",
+      "You hastily carve out some meat, leaving the rest for scavengers to pick over."
+    ]
   },
   {
     "type": "snippet",
     "//": "Displayed after performing a full butcher on a corpse (from butchery menu)",
     "category": "harvest_drop_default_full_butcher",
-    "text": [ "You finish butchering the corpse." ]
+    "text": [
+      "You finish butchering the corpse.",
+      "After a thorough process, you complete the butchery of the corpse.",
+      "You meticulously butcher the corpse, separating each part with precision.",
+      "Your careful and detailed work pays off as you finish butchering the corpse.",
+      "You take your time and expertly butcher the entire corpse.",
+      "With skillful cuts, you fully butcher the corpse, ensuring nothing goes to waste.",
+      "You complete the butchery, neatly separating all usable parts from the corpse.",
+      "After a detailed and careful process, the corpse is fully butchered.",
+      "You methodically break down the corpse, finishing the butchery with precision.",
+      "Your expertise shows as you efficiently butcher the entire corpse.",
+      "You finish the full butchery, leaving nothing of value behind.",
+      "With steady hands, you complete the butchery, preparing the corpse for use.",
+      "You skillfully butcher the corpse, ensuring every usable part is harvested.",
+      "The butchery is complete, and you have expertly harvested all parts of the corpse.",
+      "You take your time and carefully butcher the entire corpse, leaving no waste.",
+      "After a thorough and precise process, you finish butchering the corpse.",
+      "You expertly separate all parts of the corpse, completing the butchery.",
+      "The corpse is fully butchered with precision and care.",
+      "You finish the detailed butchery, harvesting every usable part from the corpse.",
+      "With expertise and care, you complete the butchery of the entire corpse."
+    ]
   },
   {
     "type": "snippet",
     "//": "Displayed after bleeding a corpse (from butchery menu)",
     "category": "harvest_drop_default_bleed",
-    "text": [ "You bleed the corpse." ]
+    "text": [
+      "You bleed the corpse.",
+      "With a steady hand, you drain the blood from the corpse.",
+      "You carefully bleed the corpse, ensuring all excess blood is removed.",
+      "The corpse is efficiently bled, leaving it ready for further processing.",
+      "You perform the bleeding process with precision, draining the corpse of blood.",
+      "After bleeding the corpse, you are left with a clean and drained carcass.",
+      "You complete the bleeding process, removing excess blood from the corpse.",
+      "With skillful technique, you bleed the corpse thoroughly.",
+      "The corpse is successfully bled, preparing it for the next stage of processing.",
+      "You expertly bleed the corpse, leaving it ready for further butchery.",
+      "With practiced hands, you drain the blood from the corpse.",
+      "The bleeding process is complete, and the corpse is now ready for further preparation.",
+      "You efficiently bleed the corpse, ensuring it is properly drained.",
+      "After bleeding the corpse, you are left with a clean and sanitized carcass.",
+      "With careful attention to detail, you bleed the corpse completely.",
+      "The corpse is drained of blood, ready to be processed further.",
+      "You successfully bleed the corpse, removing all excess blood.",
+      "With precision, you drain the blood from the corpse, leaving it ready for use.",
+      "You complete the bleeding process, ensuring the corpse is thoroughly drained.",
+      "After bleeding, the corpse is left clean and ready for further processing."
+    ]
   },
   {
     "type": "snippet",
     "category": "harvest_drop_mutagen_field_dress",
-    "text": [ "You notice some strange organs, perhaps harvestable via careful dissection." ]
+    "text": [
+      "You notice some strange organs, perhaps harvestable via careful dissection.",
+      "Upon closer inspection, you identify unusual organs that may yield valuable mutagenic materials.",
+      "Your keen eye spots peculiar organs that could be valuable for mutagenic experimentation with careful extraction.",
+      "Amidst the remains, you find organs exhibiting abnormal characteristics, possibly containing mutagenic properties.",
+      "You detect anomalous organs within the corpse, suggesting potential for extracting mutagenic substances.",
+      "The corpse reveals unusual organs that pique your interest for their potential mutagenic properties.",
+      "Upon examination, you discern peculiar organs that hold promise for mutagen extraction.",
+      "You uncover organs with distinct features, hinting at their potential mutagenic utility upon extraction.",
+      "As you survey the remains, you identify organs that appear ripe for harvesting mutagenic materials.",
+      "Your investigation reveals organs with unique properties, indicating potential mutagenic value."
+    ]
   },
   {
     "type": "snippet",
     "category": "harvest_drop_bionic_field_dress",
-    "text": [ "You suspect there might be bionics implanted in this corpse, that careful dissection might reveal." ]
+    "text": [
+      "You suspect there might be bionics implanted in this corpse, that careful dissection might reveal.",
+      "Your intuition suggests the presence of hidden bionics within the corpse, awaiting discovery through meticulous dissection.",
+      "A hunch tells you there could be concealed bionic implants within the corpse, awaiting identification through careful dissection.",
+      "You have a suspicion that this corpse may harbor hidden bionic enhancements, accessible through precise dissection.",
+      "A careful examination leads you to believe that bionic augmentations may be concealed within the corpse, awaiting identification during dissection.",
+      "You discern subtle indicators hinting at the presence of bionic implants within the corpse, prompting further investigation through dissection.",
+      "Amidst the remains, you detect subtle clues suggesting the presence of bionic enhancements, enticing you to explore further through dissection.",
+      "Your scrutiny reveals subtle anomalies that suggest the presence of bionic enhancements within the corpse, motivating you to conduct a thorough dissection.",
+      "There are signs pointing to the possibility of hidden bionic implants within the corpse, encouraging you to conduct a detailed dissection.",
+      "You observe subtle anomalies that hint at the presence of bionic implants within the corpse, prompting you to proceed with a cautious dissection."
+    ]
   },
   {
     "type": "snippet",
     "category": "harvest_drop_mutagen_butcher",
-    "text": [ "Your butchering tool destroys a strange organ.  Perhaps a more surgical approach would allow harvesting it." ]
+    "text": [
+      "Your butchering tool destroys a strange organ. Perhaps a more surgical approach would allow harvesting it.",
+      "During butchery, a peculiar organ is inadvertently damaged by your tool. A more precise method may be necessary to salvage it.",
+      "As you butcher the corpse, you unintentionally damage a peculiar organ with your tool. Employing a more delicate approach could facilitate its retrieval.",
+      "The butchering process causes irreversible damage to an unusual organ. To salvage it, a more refined technique may be required.",
+      "A unique organ is accidentally damaged during the butchering process. Employing a more surgical method could preserve it for harvesting.",
+      "Your butchering tool inadvertently damages an unusual organ. Consideration of a more controlled approach may be prudent to recover it intact.",
+      "As you butcher the corpse, a peculiar organ is inadvertently destroyed by your tool. A more careful technique may be necessary to preserve it.",
+      "During butchery, your tool inadvertently damages a strange organ. An alternative, more precise method may be necessary to extract it intact.",
+      "The butchering process results in the inadvertent destruction of a unique organ. Implementing a more meticulous approach may facilitate its extraction.",
+      "An unfamiliar organ is damaged during butchery. Employing a more meticulous technique may enable its salvage."
+    ]
   },
   {
     "type": "snippet",
     "category": "harvest_drop_bionic_butcher",
     "text": [
       "Your butchering tool encounters something implanted in this corpse, but your rough cuts destroy it.",
-      "You find traces of implants in the body, but you care only for the flesh.",
-      "You found some bionics in the body, but harvesting them would require more surgical approach."
+      "During butchery, your tool encounters implanted bionics, but its rough handling results in their destruction.",
+      "Traces of implants are discovered in the body during butchery, but your focus remains solely on the flesh.",
+      "While butchering, you come across some bionics in the body, but their harvesting would necessitate a more surgical approach.",
+      "Implants are detected in the body during butchery, but your disregard for precision leads to their destruction.",
+      "As you butcher the corpse, you encounter traces of implants, but you prioritize flesh over technology.",
+      "Your butchering process uncovers bionics in the body, but their removal would require a more delicate procedure."
     ]
   },
   {
     "type": "snippet",
     "category": "harvest_drop_mutagen_dissect_failed",
-    "text": [ "You discover only damaged organs." ]
+    "text": [
+      "Your dissection reveals only damaged organs, rendering them unsuitable for harvest.",
+      "Upon dissection, you find only damaged organs, unfit for harvesting.",
+      "Despite your efforts, your dissection yields only damaged organs, rendering them useless for further study.",
+      "The organs you uncover during dissection are found to be damaged, providing no viable material for harvest.",
+      "Your attempt at dissection reveals only damaged organs, leaving nothing of value to harvest.",
+      "During dissection, you find only organs that have been damaged beyond use, providing no useful material for harvest."
+    ]
   },
   {
     "type": "snippet",
     "category": "harvest_drop_tissue_dissect_failed",
-    "text": [ "You don't find much besides damaged tissue." ]
+    "text": [
+      "Your dissection yields little beyond damaged tissue, unfit for further study or harvest.",
+      "Despite your efforts at dissection, you uncover little beyond damaged tissue, rendering it unsuitable for harvest.",
+      "Upon dissection, you find little besides damaged tissue, providing no viable material for harvest.",
+      "Your attempt at dissection reveals little beyond damaged tissue, leaving nothing of value for harvest.",
+      "During dissection, you find little besides tissue that has been damaged beyond use, providing no useful material for harvest.",
+      "The tissue you uncover during dissection is found to be damaged, offering no useful material for harvest."
+    ]
   },
   {
     "type": "snippet",
     "category": "harvest_drop_bone_dissect_failed",
-    "text": [ "You discover some shattered bones." ]
+    "text": [
+      "Your attempt at dissection reveals only shattered bones, rendering them unsuitable for further use or study.",
+      "Despite your efforts at dissection, you uncover only shattered bones, offering no viable material for harvest.",
+      "Upon dissection, you find only shattered bones, providing no useful material for harvest.",
+      "You discover only shattered bones during dissection, leaving them unfit for further use or study.",
+      "During dissection, you find only shattered bones, offering no viable material for harvest.",
+      "The bones you uncover during dissection are found to be shattered, providing no useful material for harvest."
+    ]
   }
+]
+rther study or harvest.",
+    "Despite your efforts at dissection, you uncover little beyond damaged tissue, rendering it unsuitable for harvest.",
+    "Upon dissection, you find little besides damaged tissue, providing no viable material for harvest.",
+    "Your attempt at dissection reveals little beyond damaged tissue, leaving nothing of value for harvest.",
+    "During dissection, you find little besides tissue that has been damaged beyond use, providing no useful material for harvest.",
+    "The tissue you uncover during dissection is found to be damaged, offering no useful material for harvest."
+  ]
+},
+
+{
+  "type": "snippet",
+  "category": "harvest_drop_bone_dissect_failed",
+  "text": [
+    "Your attempt at dissection reveals only shattered bones, rendering them unsuitable for further use or study.",
+    "Despite your efforts at dissection, you uncover only shattered bones, offering no viable material for harvest.",
+    "Upon dissection, you find only shattered bones, providing no useful material for harvest.",
+    "You discover only shattered bones during dissection, leaving them unfit for further use or study.",
+    "During dissection, you find only shattered bones, offering no viable material for harvest.",
+    "The bones you uncover during dissection are found to be shattered, providing no useful material for harvest."
+  ]
+}
 ]
